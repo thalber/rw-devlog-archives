@@ -1,0 +1,4 @@
+JLJac
+135
+
+<b>Update 383</b><br><br>Started on climbing behavior.<br><br><img src="https://web.archive.org/web/20200514093017im_/http://imgwiz.com/images/2015/01/19/dtLMk.gif" alt="" border="0"><br><br>As you might remember, this creature is supposed to be flying/climbing. Generally it will prefer flying in open areas and climbing in narrow areas, but I don&#039;t know yet to what degree it should prefer either way of locomotion. Maybe it&#039;ll only climb if absolutely necessary, but prefer flying in all possible scenarios.<br><br>This climbing behavior obviously needs some work. But the idea is that the flying behavior will be able to support it a bit and make it look a little more competent - maybe the creature should be able to fly a little bit with one limb while climbing with the other, for example.

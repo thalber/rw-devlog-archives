@@ -1,0 +1,4 @@
+JLJac
+87
+
+Ah, of course, I should&#039;ve figured! Because it&#039;s basically an array of arrays, right? And now I load an entire row just to get one column tile, and that&#039;s not very efficient...<br><br>But if I use a singleton I won&#039;t be able to spawn a bunch of these babies and have them work in the background during runtime, am I right? Then it would all have to happen withing a frame, and if the level is big and mazelike that frame might take a while!

@@ -1,0 +1,4 @@
+JLJac
+5
+
+<b>Update 46</b><br>I&#039;m a little bit stuck, on a silly thing. I need to know the point inside a three-edged polygon that is closest to a point outside the polygon. I realize this is something programmers probably do in their sleep, but as I never got any real programming education I always get stuck on this kind of stuff. I solve it eventually, but it might take a while. Tips are appreciated.<br><br>What&#039;s happening is that the croc is given some behaviour for its legs. Each leg is supposed to reach forward to a place that has grabable terrain, grab on to that, hold there while the body is hauled forward, and then let go and repeat. In order to find grabable spots on slopes I need the polygon-point-distance thingie. <br><br>Right now it looks like it&#039;s going to look very weird, but hopefully also cool. Will have to see how long the legs will end up, maybe it&#039;ll vary across the different crocs.

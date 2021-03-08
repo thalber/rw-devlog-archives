@@ -1,0 +1,4 @@
+JLJac
+13
+
+Today the problems don&#039;t occur on all the levels where they did yesterday. If I can&#039;t reproduce the problem I can&#039;t fix it. I officially give up...

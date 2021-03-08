@@ -1,0 +1,4 @@
+JLJac
+7
+
+The flashing heads are odd, but I still consider keping them. As the world starts to take shape they will hopefully make more sense style-wise.<br><br><b>Update 66</b><br>Graphical baby steps... Some work with the palettes and fog code.<br><br><img src="https://web.archive.org/web/20200806011925im_/http://oi50.tinypic.com/8znyas.jpg" alt="" border="0"><br><br>The third layer is almost faded away here, which I&#039;m happy with, but the light on the second layer is too sharp. Also I think the palette is still a bit too saturated, I want it to appear more black-and-whitish than colored, but while maintaining some of the juicyness that a little bit of color gives it. It&#039;s a hard balance. The palettes will of course differ between levels, but I&#039;m trying to set up a general set of rules for how they&#039;ll work.

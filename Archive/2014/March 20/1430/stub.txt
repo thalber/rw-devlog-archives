@@ -1,0 +1,4 @@
+JLJac
+71
+
+Thanks guys! Ok, so I think I&#039;m most comfortable with PascalCase for classes and methods, and camelCase for variables. That way an object can have a method Stun() and a variable int stun, for example.<br><br>If the only downside to Properties is performance, and they&#039;re preferred over fields for everything else, I&#039;ll go by the &quot;No premature optimization&quot; commandment and use properties until something starts to annoy me by being too slow. It&#039;s not like the game is going to be slower than the lingo version either way haha! 

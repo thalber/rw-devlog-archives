@@ -1,0 +1,4 @@
+jamesprimate
+129
+
+ah yes thats the downside of messing about in the setup.txt: one small thing out of place and you get wacky errors like pink screens!

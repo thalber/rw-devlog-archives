@@ -1,0 +1,4 @@
+JLJac
+8
+
+Hehe! Those lizards only get a graphics update every 4:th frame though, so they might not look very smooth. I&#039;m thinking about removing that optimization, the game seems to run OK witouth it. Oh, and a pro tip: I forgot to disable the C and V keys for the demo, try holding them!<br><br><b>Update 80</b><br>Made spears stick in walls. Added a few new sounds. There is a yellow lizard that hunts in packs. If one of them sees you the entire pack knows where you are.

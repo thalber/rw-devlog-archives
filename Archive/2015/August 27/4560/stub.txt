@@ -1,0 +1,4 @@
+jamesprimate
+228
+
+i wouldnt take much from the audio in the coub videos, as coub automatically apply volume normalization and huge amounts of compression that isnt in the actual audio. you can hear it really strongly in the leviathan video, which should be all subtle background sounds and ambient water swishes with tons of headroom. whatev.

@@ -1,0 +1,4 @@
+jamesprimate
+129
+
+i dont think so! for Christian&#039;s suggestion that line should just read &quot;level: DS_A01&quot;, which will start you in that room but keep the rest of the world map. you could also edit the world to &quot;world: 0&quot;, which would place you just in that room without the rest of the world existing.<br><br>but cmon we dont want to tell you TOO much about how to break the game, haha

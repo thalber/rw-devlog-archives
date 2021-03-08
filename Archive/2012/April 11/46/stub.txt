@@ -1,0 +1,4 @@
+JLJac
+2
+
+<b>Update 21</b><br>I made the game considerably uglier today... That feels weird of course, but I think it&#039;s a necessary step towards starting to incorporate some kind of art direction. I want the game to be mainly flat colors, I believe, but still want the shadows around, so I&#039;ll have to find a way for those two to work nicely together. 

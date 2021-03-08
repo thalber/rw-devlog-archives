@@ -1,0 +1,4 @@
+JLJac
+31
+
+The level editor makes these rainbow maps, which are kind of nice so it&#039;s a bit of a waste that they&#039;re not visible in the game:<br><br><br><img src="https://web.archive.org/web/20141227105755im_/http://oi41.tinypic.com/30ndfzk.jpg" alt="" border="0"><br><br>Small fragments of this is visible in the final level, primarily around the edges of stuff.<br><br>The rainbow map is displaced by a depth map - that&#039;s why you can see the three dimensional shape of the level if you look carefully.

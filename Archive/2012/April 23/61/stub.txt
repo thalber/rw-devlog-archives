@@ -1,0 +1,4 @@
+JLJac
+3
+
+<b>Update 30</b><br>Did a lot of multiplayer playtesting, most of it went rather good. The crocs are actually just smart enough to play tricks on, which is a lot of fun. At one time I was hiding in a little pipe section while a croc was snooping around outside, and my opponent wanted to mess with me. He crawled up to a balcony above, and exposed himself. He knew that the fastest route up to that balcony was through the very pipe I was hiding in... <br><br>Made lizards collide with each other, which looks hilarious when a bunch of them try to cram themselves through a narrow opening or when they meet in a corridor. <br><br>The animation is doing its part, and their bodies have gotten some kind of mushy, soft quality that I&#039;m definitely sticking with. They have a head and are able to do a little looking around. Next up is legs.

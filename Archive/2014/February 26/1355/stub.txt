@@ -1,0 +1,4 @@
+JLJac
+67
+
+Hehe this is super embarrassing, but I actually found the solution:<br><br>After reading this:<br><a href="https://web.archive.org/web/20150101203251/http://www.reddit.com/r/futile/comments/y2q5p/futile_tips/" target="_blank">http://www.reddit.com/r/futile/comments/y2q5p/futile_tips/</a><br>I tried navigating to the atlas .png file in the Unity editor, select it and change the filter mode there. It worked.<br>&nbsp;-_______________________-<br><br>I was so focused on finding a way to do it with code that I didn&#039;t try the simplest possible way - just doing it through Unity&#039;s interface.<br><br>Thank you all for having patience with me.

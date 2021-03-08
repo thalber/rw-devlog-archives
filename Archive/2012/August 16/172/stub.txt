@@ -1,0 +1,4 @@
+JLJac
+8
+
+Hi, I&#039;m back!<br>From now I&#039;ll return to the previous ~one hour a day work schedule. <br><br><b>Update 78</b><br>Enabled you to bring objects from one level to another in world mode. When carrying pebbles their look is consistent between levels, and when carrying flies the number of bites taken out of them is saved. If in the future I want to add other objects than pebbles the framework supports this as well.

@@ -1,0 +1,4 @@
+jamesprimate
+83
+
+Shocking!!!<br><br>its a huge change. but after looking it for a while, its undoubtedly the right direction. in fact, now the old leap looks strange by comparison (yes, where *were* the arms?)<br><br>It does interrupt the graceful comet-like arc of the old leap though, which i found really appealing. Perhaps just fine-tuning the circumstances (length of time / distance it takes for the limbs to come out) so that not every jump winds up as a pile of wiggling limbs, might give us best of both worlds. This is obviously just my initial impression from one gif where you are specifically TRYING to show the limbs, so perhaps this is already somewhat implemented.<br><br>I&#039;m guessing there will be separate set of classes for limbs holding objects (like tucked in, close to the chest) or something?

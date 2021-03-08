@@ -1,0 +1,4 @@
+jamesprimate
+119
+
+Joar could answer this way better than me obviously, but basically everything is custom Joar work. Engine was build from scratch TWICE, first in lingo and now in C# using the code-centric futile framework for unity (so you are right, no unity workflow at all.) the level editor, also hand rolled, is still in lingo actually and has to run instanced from inside director haha

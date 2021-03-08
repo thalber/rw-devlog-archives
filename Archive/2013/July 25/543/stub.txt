@@ -1,0 +1,4 @@
+JLJac
+27
+
+<b>Update 153</b><br>The dantesque journey through the 700 circles of UI hell continues. This time I managed to tackle most of the functionality for the sandbox mode menu. Sandbox will be a game mode that&#039;s extremely customizable, so that you can fight whatever lizards you want, under whatever conditions you want. It&#039;s a lot of fun to set up different insane challanges, such as trying to fend of 4 respawning red lizards without being allowed to hide in your hole. 

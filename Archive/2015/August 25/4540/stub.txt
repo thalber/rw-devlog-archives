@@ -1,0 +1,4 @@
+JLJac
+227
+
+I did check it out! The effect is similar, but I think the algorithmic approach is more different than same. As you see in the gif, my rope thing can wrap several times around the same object, cross itself etc. The convex hull algorithm is about mathematically finding the perimeter of an object - it&#039;s a way more &quot;mathematically clean&quot; line. For example they mention that one of the definitions of their line is that every angle is a left turn, &nbsp;that certainly doesn&#039;t go for my line haha!<br><br>My approach is less pure maths, more hands on. Whenever a rope segment moves (and it&#039;s only the first and the last rope segments that can move) I sweep over the area it covered in its movement and check all the corner points in there. The corner point that is closest to where the segment was before it started to move is picked as the position for a new bend on the rope.

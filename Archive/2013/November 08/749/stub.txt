@@ -1,0 +1,4 @@
+JLJac
+37
+
+<b>Update 195</b><br>Returned to single player a little after not touching it for a long time because of IGF reasons. Worked a bit on the shelter levels, how they&#039;re going to behave. For now it looks like the &quot;death by rain&quot; will be inactivated in the shelter, whether or not you&#039;re actually inside the doors. But if you&#039;re outside the doors, there&#039;ll be a jet stream of water that will kill you either way. Hopefully I&#039;ll have some graphics to show how this looks soon. <br><br>The case I&#039;m still not very sure about is when you are inside the shelter, the time runs out, and you <i>don&#039;t have enough flies</i>. I don&#039;t think this will happen very often at all (if you screw up so royally that you somehow end up back at the shelter with no time left and no flies, you&#039;re probably just going to load your last game) so maybe an unsatisfying &quot;You starved to death&quot; - message will suffice. 

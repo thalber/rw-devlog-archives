@@ -1,0 +1,4 @@
+jamesprimate
+107
+
+if you think that&#039;s wonky you haven&#039;t seen nothin yet!&nbsp; <img src="https://web.archive.org/web/20141227133859im_/http://forums.tigsource.com/Smileys/derek/wink.gif" alt="Wink" border="0"> <br><br>Don&#039;t worry, that one is just the &quot;abstracted room&quot; overlay showing activity in adjacent rooms. For game &quot;debugging&quot; purposes (seems weird to say that), there are a LOT of ad-hoc HUDs hooked up for showing various information, but there won&#039;t be HUDs of any sort in the game (if we can do our jobs right!), so no reason for them not to be ugly and wonky&nbsp; <img src="https://web.archive.org/web/20141227133859im_/http://forums.tigsource.com/Smileys/derek/hand-thumbsup-l.gif" alt="Hand Thumbs Up Left" border="0">

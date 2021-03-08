@@ -1,0 +1,4 @@
+JLJac
+66
+
+Thanks a bunch <img src="https://web.archive.org/web/20150102024711im_/http://forums.tigsource.com/Smileys/derek/smiley.gif" alt="Smiley" border="0"><br>I prefer to have objects <i>own </i>instances of sprites rather than <i>inherit </i> sprite behavior (that way one object can have many sprites), so I have some sprites to delete as well for each object. But I guess that can be done simply enough by running a custom destroy function in the object, where the sprites are killed and a destroy bool is set to true, and then run your solution. Thank you thank you!<br><br>Is this true for every instance ever? I never have to actually kill an object, because if I just kill the reference to it it will be taken care of?

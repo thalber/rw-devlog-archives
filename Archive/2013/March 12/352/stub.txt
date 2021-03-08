@@ -1,0 +1,4 @@
+JLJac
+17
+
+<div class="quoteheader"><a href="https://web.archive.org/web/20141227105841/http://forums.tigsource.com/index.php?topic=25183.msg862447#msg862447">Quote from: eigenbom on March 12, 2013, 08:14:02 PM</a></div><div class="quote">had a quick play, love the minimalism <img src="https://web.archive.org/web/20141227105841im_/http://forums.tigsource.com/Smileys/derek/smiley.gif" alt="Smiley" border="0"><br></div>Sir, with all due respect, your post worries me a little. I don&#039;t remember putting out a public demo, and I remember spending almost a year implementing a gazillion details, so if all of those have dissapeared and given way to &quot;minimalism&quot; I have a problem.

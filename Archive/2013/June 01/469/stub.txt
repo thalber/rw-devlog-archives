@@ -1,0 +1,4 @@
+JLJac
+23
+
+<b>Update 148</b><br>Created some counters for stuff such as kills and eggs captured. If you throw a spear on a player or a lizard it&#039;s counted as your kill. If you throw a rock at a player or a lizard causing it to fall off the map it&#039;s also counted as your kill. If you throw a rock at another player and he&#039;s eaten by a lizard before his stun wears off it&#039;s your kill, but I don&#039;t know about that one as there are many other ways to kill a player indirectly, which are much harder for the computer to recognize. For example you can kill someone by blocking a corridor, and then the question is raised whether that kill should somehow be attributed to you as well? idk...<br><br>

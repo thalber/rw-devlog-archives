@@ -1,0 +1,4 @@
+JLJac
+30
+
+Pew... that puts us at 1 more year... Hope it&#039;ll go quicker!<br><br><b>Update 167</b><br>Started the transition to the new shelter system, with graphical representations and saving/loading and whatnot. Also, there was an effect on some screens where the sunlight would fade back and forth as if clouds were passing by. When moving between levels this clouds value would reset. Now it&#039;s universal, meaning that the sunlight can start to fade out when you&#039;re at one screen, and continue when you enter another.

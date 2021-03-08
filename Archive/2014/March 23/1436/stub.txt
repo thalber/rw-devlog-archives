@@ -1,0 +1,4 @@
+JLJac
+71
+
+The finite state machine for player animation is becoming humongous... And the player should have <i>two </i>of these, one for &quot;body modes&quot; as well. They&#039;re going to be like, a thousand lines each o.0 Should I separate it into a PlayerAnimation class? <br><br>It feels weird to have a separate class that&#039;s 100% dependent on another class, and that only exists as one instance per owner. There is no motivation at all to have it as a separate class except from trying to make the text files a bit shorter.<br><br>What would you guys do?

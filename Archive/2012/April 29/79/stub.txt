@@ -1,0 +1,4 @@
+JLJac
+3
+
+I think that the rain will be mainly a plot element, not a gameplay element. The idea is that it&#039;s such a horrible force that unless you&#039;re deep underground when it starts you&#039;re done for. I like the concept that you&#039;ll run around in a world that&#039;s heavily scarred by this force of nature that you never actually see, making it even more terrifying. <br><br>There will be dripping water pixels, trust me! Maybe you&#039;ll even see the first few drips of rain the seconds before escaping the level. <br><br>I have a bit of a problem with levels appearing as very static, which is because they are very static, they&#039;re basically just a still image. However I want to spend most of my milliseconds per frame on creature movement and AI, not grass moving in the wind. In the end I will do what I can to try to make the levels seem alive, but I will have to do it in cheap ways. We&#039;ll see what I come up with!

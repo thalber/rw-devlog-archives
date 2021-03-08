@@ -1,0 +1,4 @@
+JLJac
+3
+
+<b>Update 37</b><br>The light angle is now changeable through the light editor, so from now on maybe all my screenshots won&#039;t have the exact same top-left lightsource.

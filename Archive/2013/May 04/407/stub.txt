@@ -1,0 +1,4 @@
+JLJac
+20
+
+<div class="quoteheader"><a href="https://web.archive.org/web/20141223032125/http://forums.tigsource.com/index.php?topic=25183.msg884497#msg884497">Quote from: jamesprimate on May 04, 2013, 01:26:14 AM</a></div><div class="quote">...embrace commerce...<br></div>Hahaha <img src="https://web.archive.org/web/20141223032125im_/http://forums.tigsource.com/Smileys/derek/cheesy.gif" alt="Cheesy" border="0"><br>It&#039;s just that there&#039;s this really annoying bug where the player suddenly falls of a ledge at the speed of light, which leads to some really unfair deaths, and which I don&#039;t at all feel like tracking down and fixing ~ And that makes releasing the game for free the logical conclusion, as no-one can say anything as long as they didn&#039;t pay for it...

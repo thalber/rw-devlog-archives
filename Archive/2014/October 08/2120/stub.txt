@@ -1,0 +1,4 @@
+JLJac
+106
+
+That&#039;s a really good point ~ I did lower the effect of the weight of the carried creature quite some because otherwise it looked awkward when carrying around the slugcat, but yeah, the blue lizard should be a bit heavier. Maybe I can do some polynomial thing which makes low weights be really low but higher weights increase steeper than linear progression. 

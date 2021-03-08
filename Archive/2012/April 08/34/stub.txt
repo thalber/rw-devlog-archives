@@ -1,0 +1,4 @@
+JLJac
+1
+
+<b>Update 16</b><br>Gave the lizard hearing. To keep things simple and clear to the player the only thing that can cause a for the lizard hearable sound is landing on a floor after being airborne. If you make the tiniest possible jump by just tapping the button you&#039;ll make no sound at all. The variable of lizard hearing is how big the radius is within which it&#039;ll register this sound. <br><br>It doesn&#039;t <i>know </i>where you are, as when seeing you, and it doesn&#039;t know which player it heard. All the sound does is that if a croc is idling or snooping around and hears a sound it&#039;ll go to the place the sound came from to check it out. When chasing a known target it&#039;ll ignore sounds. <br><br>It is communicated to the player that a croc heard something in the way that it stops in its tracks for a second, as if listening. Once it eventually gets a head it will probably turn this towards the source of the sound as well. <br><br>

@@ -1,0 +1,4 @@
+JLJac
+15
+
+<b>Update 118</b><br>I managed to make a working menu for the Prince of Arcade guys! I <span style="text-decoration: underline;">hate</span> UI programming, but it has to be done, so, well, I did it. The menu is not <i>the </i>menu I&#039;ll use in the game, but now I have a framework, and that&#039;s a good start. Now I can do stuff such as adding a button or a list, make them clickable, switchable, highlighting, connect them to the machinery behind the scenes, and so on. I&#039;m already feeling a huge amount of satisfaction over all the work I&#039;m evading compared to the alternate reality where I programmed every button as a single special case with its own unique code. 

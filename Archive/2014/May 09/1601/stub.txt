@@ -1,0 +1,4 @@
+JLJac
+80
+
+The shader is written in CG, nvidias shader syntax, and has its own set of fun little functions of which lerp is one!<br><br>So... you guys are telling me that doing one extra tex2D and a lerp is still cheaper than an if-statement?<br><br>Edit: oh wait, actually you&#039;re telling me that an if statement doesn&#039;t do much good at all because it&#039;s still likely to execute both branches, right? Did a little reading in your links...

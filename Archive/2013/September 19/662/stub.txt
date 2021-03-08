@@ -1,0 +1,4 @@
+JLJac
+33
+
+<div class="quoteheader"><a href="https://web.archive.org/web/20141228124136/http://forums.tigsource.com/index.php?topic=25183.msg946402#msg946402">Quote from: artemi on September 18, 2013, 05:08:20 PM</a></div><div class="quote">Oh, and something I thought of earlier today. When you have yellow lizards spawn in horde mode, shouldn&#039;t they spawn in pairs, at least in the first wave? If you run into a single yellow, your fine, but if the next wave has, say, a blue and two yellows, suddenly it&#039;s a WHOLE different critter then the last wave. <br></div>Yeah, yellows almost always spawn in groups of 2-4. I think they could theoretically show up alone as well, but I haven&#039;t encountered it. It should be a very rare occurance.

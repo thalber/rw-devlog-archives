@@ -1,0 +1,4 @@
+JLJac
+5
+
+<b>Alpha is out!</b><br><br>Here&#039;s what the main menu looks like:<br><br><img src="https://web.archive.org/web/20141212170251im_/http://oi47.tinypic.com/rk1lhs.jpg" alt="" border="0"><br><br>I have a three year university education in graphic design, and I&#039;ve gotta say, it&#039;s not every day you pull something like this off. Going straight in the portfolio.<br><br>So, hopefully I&#039;ll get some feedback from the play testers in a couple of days (if they can find the start button), until then I&#039;ll just do a little tweaking of the level editor. 

@@ -1,0 +1,4 @@
+JLJac
+14
+
+Well, the way this works is that the software I&#039;m making this in is kind of ancient and not really able to display any exciting graphics - so to evade that I&#039;m rendering pre-baked levels that take several minutes each and then just display them as images. So no, no parallax scrolling, just fixed screens. Rest assured though, my next project I&#039;ll move over to something (anything) else. 

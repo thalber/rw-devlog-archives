@@ -1,0 +1,4 @@
+JLJac
+39
+
+<b>Update 203</b><br>Pups are now hit with rocks and spears. A grim feature, but it had to be put in. I&#039;m thinking about whether they should survive a rock to the head... I&#039;m leaning towards a 50/50 chance of survival. You shouldn&#039;t be throwing rocks at them anyhow. 

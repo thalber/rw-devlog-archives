@@ -1,0 +1,4 @@
+JLJac
+74
+
+Quick question to you wizards out there: can I do parallax scrolling as a shader? That is, can I feed a shader some parameters (camera position) on every draw command? Can I use shaders to apply different palettes to the same sprite, do color cycling etc?<br><br>Or has I completely misunderstood what a shader does? <img src="https://web.archive.org/web/20141231171155im_/http://forums.tigsource.com/Smileys/derek/tongue.gif" alt="Tongue" border="0"> <br><br>Oh, if someone had some kind of beginners guide to the stuff, that would be awesome too!

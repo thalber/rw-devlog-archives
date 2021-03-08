@@ -1,0 +1,4 @@
+JLJac
+72
+
+Wow, that looks high tech&nbsp; <img src="https://web.archive.org/web/20210123070218im_/https://forums.tigsource.com/Smileys/derek/shocked.gif" alt="Shocked" border="0"><br>I just solved it actually, using IFormatter and FileStream - I got the solution from the c# documentation. And yeah, the levels are totally small! With this solution you just have to mark the classes involved in the serialization as [Serializable] and then it just magically takes care of everything :D It packages the instances(in my case of the Tile class) somehow and stores them in the file, and then it unpacks them into living instances just as easily. And yeah, the file size is super small!<br><br>But I&#039;m pretty sure it would be even smaller if I did it your way... Well, this wasn&#039;t what I was supposed to be doing anyway - I was supposed to tweak the wall gliding, and was fed up with having to rebuild a wall to glide against each time I changed something haha!

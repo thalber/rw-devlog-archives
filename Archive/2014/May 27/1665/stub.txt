@@ -1,0 +1,4 @@
+jamesprimate
+83
+
+now that we have a FULLY FUNCTIONAL SLUGCAT, I did a little <a href="https://web.archive.org/web/20141227124049/https://www.kickstarter.com/projects/rain-world/project-rain-world/posts/857615" target="_blank">kickstarter update</a>. Mostly things you all have seen, except for an actual video of rain world running in unity and looking good (!!!): <a href="https://web.archive.org/web/20141227124049/https://www.youtube.com/watch?v=AT32_HVi6ms" target="_blank">https://www.youtube.com/watch?v=AT32_HVi6ms</a><br><br>i was talking about this with Joar, but i think we&#039;ve actually reached the point where the gifs don&#039;t do the game justice anymore. the unity build is running at like 120FPS looking suuuuuuuper crisp and vivid, with way better physics, but still using the cool old assets. its pretty incredible really!<br><br>(i can say these things because i didnt do the coding, right? anyway, its magic)

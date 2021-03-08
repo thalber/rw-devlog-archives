@@ -1,0 +1,4 @@
+JLJac
+4
+
+Cool! Let&#039;s hold it here.<br><br>I&#039;ll whip up a few levels, and hope to have a version released within the week. Once again, I don&#039;t want you to be dissapointed, so let me stress that it won&#039;t be all fun and games. The alpha will look awful, and don&#039;t expect a main menu or anything... (You&#039;ll have to select level by editing a text file and restarting the game I guess... it&#039;s going to be exciting!)

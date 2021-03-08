@@ -1,0 +1,4 @@
+JLJac
+97
+
+Yeah, this is not behavior, just movement. They have no AI at this point, so your observation is correct&nbsp; <img src="https://web.archive.org/web/20141227124052im_/http://forums.tigsource.com/Smileys/derek/hand-thumbsup-r.gif" alt="Hand Thumbs Up Right" border="0"> 

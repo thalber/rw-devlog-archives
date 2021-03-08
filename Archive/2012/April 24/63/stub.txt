@@ -1,0 +1,4 @@
+JLJac
+3
+
+<b>Update 32</b><br><br>Got my first tileset working. Now I can create levels that have a mixture of objects and tiles. Currently it looks like this:<br><br><img src="https://web.archive.org/web/20170608092325im_/http://oi47.tinypic.com/5x0mme.jpg" alt="" border="0"><br><br>Up in the right corner you can see a border that&#039;s like... folded. That&#039;s the metal tileset, and the things it&#039;s folded around are loose metal tiles. Hopefully you&#039;ll be able to create some interesting stuff with this.<br><br>If you squint a little you&#039;ll notice the shadows. Sad thing people won&#039;t likely be squinting when playing the game...

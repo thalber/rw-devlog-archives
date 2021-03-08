@@ -1,0 +1,4 @@
+JLJac
+6
+
+Here you can see a little bit of it!<br><b>Update 59</b><br>Worked some on the animation, and made the arm for the pink croc:<br><br><img src="https://web.archive.org/web/20141214231912im_/http://oi46.tinypic.com/wcbsyb.jpg" alt="" border="0"><br><br>The way this works is that the sprite changes animation state depending on the distance between the hand and its socket in the croc&#039;s body, and the software rotates the sprite. The location of the sprite is determined by the hand position, not the socket position, making even one pixel movements visible despite the animation having a resolution of five pixels per frame.<br><br>The hind legs will have a separate animation, but now I have a template to work from and that should be quickly dealt with.

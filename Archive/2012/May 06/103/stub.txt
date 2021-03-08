@@ -1,0 +1,4 @@
+JLJac
+5
+
+<b>Update 43</b><br>Added a test rendering for levels, so you can get an ugly-looking thing to try out before you go through the huge process of actually rendering a level. It&#039;s a good thing, because there&#039;s often a few changes you find yourself wanting to do once you know exactly which jumps are possible to pull of and so on.<br><br>I&#039;ve made a few levels as well. Still don&#039;t know what kind of layout works the best though.<br><br>Crocs don&#039;t necessarily spawn right on start up any more. You&#039;ll be able to specify from the level editor when they&#039;ll spawn. They spawn after a certain number of caught flies with an added time delay, to make it a little bit less obvious. If you want you can set them to 0 flies but a greater time delay.

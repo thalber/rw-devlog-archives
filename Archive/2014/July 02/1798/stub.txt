@@ -1,0 +1,4 @@
+JLJac
+89
+
+Hi, glad you like it :D<br><br>The game actually evolved around the main character - the &quot;slugcat&quot; as it&#039;s been named recently was created and made to move around in a sterile environment to try out the soft puppet animation technique. Then I asked myself what kind of world this creature would live in, and came up with a couple of ideas that are now scrapped, maybe I&#039;ll share them some time ... however I settled on the Rain World theme, and here we are!<br><br>Yep, the environments are really static. As many things in this project that started out as a technical limitation, but later became a point of the artistic expression if you will - the contrast between the fluid creatures and the static environments is somewhat visually interesting, and there&#039;s a reason for it in the &quot;story&quot; (hesitate to use that word as there&#039;s no script, we&#039;re having more like an emotional narrative going on) as well.

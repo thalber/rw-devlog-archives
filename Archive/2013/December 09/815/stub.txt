@@ -1,0 +1,4 @@
+JLJac
+40
+
+<b>Update 209</b><br>Added the ability to give items to pups. If you place an object on the ground in front of them, the one who&#039;s closest will go to the item and pick it up. <br><br>Pups will be able to use weapons in panicked situations, but likely it won&#039;t help them much, and the feature is mostly intended to be used as a way of carrying extra items. Now at least the pups are good for <i>something</i>. <br><br>In order to retrieve an item from a pup you can pick it up in the piggyback mode, and then hit the action button again. Then the item is taken from the pup, and put in your hands. If you put the pup down with the standard release item command, down+fire, it&#039;ll jump off still holding its item. 

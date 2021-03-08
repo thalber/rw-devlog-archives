@@ -1,0 +1,4 @@
+JLJac
+95
+
+Yep, it&#039;s assumed that the creatures have full knowledge of the map layouts. There are a couple of reasons for this. The player has access to the mythical third dimension, allowing them to view the entire room simultaneously, and I think seeing other creatures through walls is quite enough of a head start. Also it kind of makes sense - as the environments are static - for the creatures to know their premises. And, making AI, path finder and tracker account for probability of unknown tiles is a huuuuge pain programming-wise, that would most likely have no pay off in the gameplay aspect except making the creatures behave stupidly and unpredictably. Saving which tiles are discovered would consume massive amounts of memory as well. So, I&#039;ve decided that the creatures are always aware of the terrain layout, though they are not omniscient as to where other creatures currently are on the maps.

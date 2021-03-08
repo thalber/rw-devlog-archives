@@ -1,0 +1,4 @@
+JLJac
+17
+
+Horrible hack: applied!<br><br>The solution completely relies on that swarm rooms only have only one entrance, which is - in my defence&nbsp; - something I plan to stick to. Still, a <i>beautiful </i>solution would be dynamic and work in all scenarios, even those that are not included in the game. Still still, in my mind a beautiful game is a game that ever gets released...

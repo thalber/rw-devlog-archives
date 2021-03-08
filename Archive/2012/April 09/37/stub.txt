@@ -1,0 +1,4 @@
+JLJac
+1
+
+Yeah, looking forward to drawing some more for this! Here&#039;s a little video showing some Croc path finding:<br><a href="https://web.archive.org/web/20201129224152/https://www.youtube.com/watch?v=sOzuv2QxyLo&amp;feature=youtu.be" target="_blank">http://www.youtube.com/watch?v=sOzuv2QxyLo&amp;feature=youtu.be</a><br><br>You see how it paces back forth a little bit at times? That&#039;s when the path is being calculated. I don&#039;t want it to be standing still during this process, because its speed will be a que to what behaviour it&#039;s engaged in. I prefer that it runs back an forth as in a bit of initial confusion, then suddenly realizes what path it&#039;ll take. Path finding speed is a stat, and some lizards may be slower than others.

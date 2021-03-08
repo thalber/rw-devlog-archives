@@ -1,0 +1,4 @@
+JLJac
+78
+
+All the more reason to fight to keep the pixels pure then haha! I&#039;m a bit more worried that I&#039;ve heard you shouldn&#039;t use if statements in shaders, and the decoding of this system is obviously going to be a huge knot of ifs and modulus operations...

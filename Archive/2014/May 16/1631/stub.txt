@@ -1,0 +1,4 @@
+JLJac
+81
+
+Hehe yeah, it&#039;s just the rendering order - now it&#039;s drawn before the terrain which means it shows up in the grab texture. I&#039;ll just move it so it&#039;s drawn afterwards, and it&#039;ll appear on top of the scene rather than in it. 

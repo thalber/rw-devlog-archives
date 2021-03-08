@@ -1,0 +1,4 @@
+JLJac
+6
+
+It turns out the crocs are eating as much framerate as they are players. A single croc takes 8-9 milliseconds to draw on the screen, and then the math is simple, with a framrate where one frame can take no more than 25 milliseconds there can be no more than two crocs on the screen at the same time. I did some investigation, and it turns out that the problem is the legs I worked so much on. They&#039;re drawn as vector lines, and obviously take quite some time to draw. I&#039;ll look into one other solution before I discard them, but it seems there might be no avoiding going into time consuming pixel animations here.

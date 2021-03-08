@@ -1,0 +1,4 @@
+JLJac
+7
+
+<b>Update 69</b><br>Managed to implement the correct formula for hanging wires and chains, so that their arcs are actually accurate to what a real rope hanging in constant gravity looks like. The difference is not really visible, but it brings peace of mind.

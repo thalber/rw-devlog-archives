@@ -1,0 +1,4 @@
+JLJac
+105
+
+Ah! Yeah ok so with that stuff I&#039;m preeeetty happy to keep it simple - I&#039;d rather have a few solid, understandable components and then use creatures to make it interesting. That said we plan a pretty big game world, so it would be weird if not one or two more environmental elements like that snuck in. But it&#039;s not going to be a huge plethora of tile types, rather tiles will be kept pretty plain to set the stage for a plethora of creatures. 

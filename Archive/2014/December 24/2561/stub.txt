@@ -1,0 +1,4 @@
+jamesprimate
+128
+
+awww poor shader bug <img src="https://web.archive.org/web/20150108045721im_/http://forums.tigsource.com/Smileys/derek/sad.gif" alt="Sad" border="0"> Might as well make it count: Christian, whats your GPU specs? Which shader model does it support? <a href="https://web.archive.org/web/20150108045721/http://compactiongames.about.com/od/systemrequirements/a/How-To-Determine-Direct-X-Version-And-Shader-Model-You-Are-Running.htm" target="_blank">http://compactiongames.about.com/od/systemrequirements/a/How-To-Determine-Direct-X-Version-And-Shader-Model-You-Are-Running.htm</a><br><br>and yes, falling offscreen to death is intentional

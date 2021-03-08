@@ -1,0 +1,4 @@
+jamesprimate
+92
+
+<div class="quoteheader"><a href="https://web.archive.org/web/20141219115757/http://forums.tigsource.com/index.php?topic=25183.msg1043768#msg1043768">Quote from: JLJac on July 21, 2014, 01:44:30 PM</a></div><div class="quote">Do you feel like sharing any of the ideas you had buzzing around your head? <br></div><br>uh guys, i think he meant &quot;ideas about how to implement abstracted creature behaviour&quot; hahah 

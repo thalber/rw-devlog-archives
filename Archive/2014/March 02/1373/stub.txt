@@ -1,0 +1,4 @@
+JLJac
+68
+
+This seems like the thing for me! Is it similar to <a href="https://web.archive.org/web/20150101203245/http://www.freewebs.com/campelmxna/HTMLTutorials/Tutorial17HTML.htm" target="_blank"><span style="text-decoration: underline;">this</span></a>? Why is it hacky? &nbsp;<img src="https://web.archive.org/web/20150101203245im_/http://forums.tigsource.com/Smileys/derek/whome.gif" alt="Who, Me?" border="0"><br><br>I feel a bit confused, to be honest. You can create two classes inside of one class? Where does the code actually go? In the same text file, but where? What is a &quot;namespace&quot;? What is a &quot;dedicated field&quot;?

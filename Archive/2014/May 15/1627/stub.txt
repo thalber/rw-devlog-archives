@@ -1,0 +1,4 @@
+jamesprimate
+81
+
+<div class="quoteheader"><a href="https://web.archive.org/web/20141228135528/http://forums.tigsource.com/index.php?topic=25183.msg1022363#msg1022363">Quote from: JLJac on May 15, 2014, 10:36:02 AM</a></div><div class="quote"><br><img src="https://web.archive.org/web/20141228135528im_/http://imgwiz.com/images/2014/05/15/yPjbd.gif" alt="" border="0"><br><br>Small detail, but it&#039;s that kind of stuff I love to do haha! This looks more like it, James? The stiffness and the stiffness decline are just hard coded variables, so they can be adjusted whatever way.<br></div><br>YES! seems to have a little more internal structure, which gives it a sort of realness. you know, for a slugcat. still flows so well compared to the old one. looks almost joyous when springing about! great stuffffff i cant wait to see the full new model, its going to be so nice

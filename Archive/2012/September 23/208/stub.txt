@@ -1,0 +1,4 @@
+JLJac
+10
+
+<b>Update 88</b><br>Working a lot lately, and what I&#039;ve been doing is mostly level layouts for the world mode, which is why I haven&#039;t posted anything in a while. Still, there&#039;s slow but steady progress.<br><br>I have a world map which I think is working decently. Some of the levels on the map are more or less decided how they&#039;re going to look, while some are not started on yet. <br><br>For the first time in rain world history my work is more about creating content than about making the engine run, which feels weird. Still, it&#039;s a good thing, because it means we&#039;re actually getting there, and that I might be able to estimate how long this is going to take some time soon.<br><br>Then again... I&#039;ve made the estimation that the game will be out in &quot;about a month&quot; for five months now, so you never know. Still, I&#039;ve gotten much, much further now than five months ago!

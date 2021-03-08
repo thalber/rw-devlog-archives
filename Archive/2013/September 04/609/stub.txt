@@ -1,0 +1,4 @@
+JLJac
+30
+
+<b>Update 168</b><br>Somewhere half-way through the multiple shelters switch. We now have many different shelters, which saves excess flies separately. But we also have some issues, and some unfinished stuff. For example it&#039;s unable to start a game without you returning to the menu, it doesn&#039;t remember which shelter you saved in, there&#039;s a ton of cosmetic stuff and so on and so on. Progress, though.

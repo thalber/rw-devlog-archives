@@ -1,0 +1,4 @@
+JLJac
+17
+
+&nbsp;<img src="https://web.archive.org/web/20141227105841im_/http://forums.tigsource.com/Smileys/derek/hand-thumbsup-l.gif" alt="Hand Thumbs Up Left" border="0"> <img src="https://web.archive.org/web/20141227105841im_/http://forums.tigsource.com/Smileys/derek/grin.gif" alt="Grin" border="0"><br><br><b>Update 130</b><br>Managed to get the new menu connected to the actual game, meaning that it&#039;s now possible to start a custom game again. It also creates a playlist out of the levels you have choosen, and srambles it if you checked the little &quot;shuffle&quot; button. 

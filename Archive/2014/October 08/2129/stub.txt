@@ -1,0 +1,4 @@
+JLJac
+106
+
+That might be it ... but the point isn&#039;t as much this specific problem (I probably could hunt it down manually if I really tried) but that I want to be able to profile my game for the future. It can make the difference between finding some weird frame rate issue in 3 hours or 3 minutes. So even if I could do the 3 hours approach right now, I&#039;d rather think about the long run. <br><br>Edit: My problem looks similar to <a href="https://web.archive.org/web/20141228143925/http://blogs.msdn.com/b/profiler/archive/2014/04/05/visual-studio-2012-profiler-on-windows-8-1.aspx" target="_blank">this</a>, so maybe the issue is that I <i>don&#039;t have the symbols</i>, whatever that&#039;s supposed to mean. Haha I&#039;ve really been trying to find out what those &quot;symbols&quot; everyone in VS debugging is talking about is, but... Wikipedia didn&#039;t really help me this time ...

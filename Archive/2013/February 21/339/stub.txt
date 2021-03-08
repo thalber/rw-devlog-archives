@@ -1,0 +1,4 @@
+JLJac
+16
+
+Hello! This is just me checking in to let you know I&#039;m alive and kicking. I&#039;ve also actually been able to work a tiny bit on the game, starting to sort out how I want the menu to look like. Most of what has to be done is programming though, not art, and the african climate doesn&#039;t really encourage programming - it&#039;s simply too hot to think. I gradually get used to it though, and have high hopes I&#039;ll eventually be able to write some code.<br><br>Cheers!

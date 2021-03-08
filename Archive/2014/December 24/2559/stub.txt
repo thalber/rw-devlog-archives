@@ -1,0 +1,4 @@
+jamesprimate
+127
+
+yep! just the one for now. we haven&#039;t implemented multiple dens yet, as its one of those &quot;bunch of puzzle pieces coming together&quot; bits. i think we&#039;ll want to do that for our next milestone when we start to connect up the multiple regions? but first we have to MAKE those regions and maybe sort out one or two design things.<br><br>for the alpha, all bat nests are raidable and possible to &quot;beat&quot;, though you may have to discover some tricky paths back and forth <img src="https://web.archive.org/web/20141227094626im_/http://forums.tigsource.com/Smileys/derek/wink.gif" alt="Wink" border="0">

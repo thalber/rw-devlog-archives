@@ -1,0 +1,4 @@
+JLJac
+17
+
+<b>Update 126</b><br>Made the basic setup for a level tier for custom mode. Basically there are two lists, one that displays all the custom levels and one that displays the ones picked for the playlist for this specific game type. When you click a level in the first list it&#039;s added to the second, when you click a level in the second list it dissapears. 

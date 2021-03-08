@@ -1,0 +1,4 @@
+JLJac
+3
+
+It&#039;s worth to note that I haven&#039;t gotten around to the effects editor yet, which will have a huge impact on the appearance of levels. It&#039;s going to be exciting!<br><br><b>Update 33</b><br>Made the level editor save the light to another layer, and made the game able to pick up the changed level format. Now you can, if you have a slightly stronger computer, enable the light to fade slowly back and forth. Maybe this represents clouds passing by... most importantly it brings a little bit of life into the level graphics. I want the levels to feel very still and quiet, for artistic reasons, and I think that this slow movement actually adds to this. If everything was static you&#039;d assume it was because of technical limitations (which it, in part, is), but if there&#039;s one element of movement the other stuff look more still in comparison, I hope.

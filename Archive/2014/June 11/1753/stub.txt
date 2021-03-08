@@ -1,0 +1,4 @@
+JLJac
+87
+
+I can draw from this, but because of some rain world specific stuff I&#039;ll have to do a hybrid solution that&#039;s not quite as lean as this is. For example I&#039;ll have to use an integer array rather than one of bools, and a few other tweaks to accommodate for slightly more complex stuff going on than just tile-by-tile, equally weighted, pathfinding. I&#039;ll get into more detail when I do a proper update.<br><br>It was a super good source of inspiration. Especially the idea with the heap, which I wouldn&#039;t have come up with in a million years. Thanks&nbsp; <img src="https://web.archive.org/web/20141223101630im_/http://forums.tigsource.com/Smileys/derek/smiley.gif" alt="Smiley" border="0">

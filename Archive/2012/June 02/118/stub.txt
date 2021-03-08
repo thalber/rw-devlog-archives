@@ -1,0 +1,4 @@
+JLJac
+5
+
+<b>Update 51</b><br>Implemented a jaw for the croc, that&#039;s separate from the head and can open and close. Also started to set up a framework for how the head will rotate depending on the angle of the body.<br><br>The crocs now climb poles in a slightly more reasonable manner, instead of just gliding along on the centre of the pole like a monorail then will climb on top of horizontal poles and on the sides of vertical ones.

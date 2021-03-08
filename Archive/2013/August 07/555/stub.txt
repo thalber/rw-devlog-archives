@@ -1,0 +1,4 @@
+JLJac
+27
+
+<b>Update 157</b><br>More stuff with the custom game framework. Made an option that gives you a spear every time you go down into a den.<br><br>Also James has started making lizard sounds! They&#039;re sounding very cool so far <img src="https://web.archive.org/web/20141223032109im_/http://forums.tigsource.com/Smileys/derek/smiley.gif" alt="Smiley" border="0">

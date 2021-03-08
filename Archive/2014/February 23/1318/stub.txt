@@ -1,0 +1,4 @@
+JLJac
+65
+
+Hi everyone! <br>Has anyone else had this problem: <br>If I need to put to Unity&#039;s debug logger every frame, it runs smoothly for about a second or two, then it freezes for 0.5-1 second, then it runs a second or two again, etc.<br>I&#039;m supposed to be able to put a value to the console once per frame, right? It makes it really hard to do stuff, because putting to the console is the only way I know of to keep track of a value.<br><br>Is it just my computer that&#039;s slow? Weird that the frame rate isn&#039;t consistently low then...?

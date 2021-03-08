@@ -1,0 +1,4 @@
+JLJac
+87
+
+Pathfinders! <img src="https://web.archive.org/web/20141223101630im_/http://forums.tigsource.com/Smileys/derek/hand-shake-l.gif" alt="Hand Shake Left" border="0"> <img src="https://web.archive.org/web/20141223101630im_/http://forums.tigsource.com/Smileys/derek/cheesy.gif" alt="Cheesy" border="0"> <img src="https://web.archive.org/web/20141223101630im_/http://forums.tigsource.com/Smileys/derek/hand-shake-r.gif" alt="Hand Shake Right" border="0"><br><br>Yeah, I deciphered the heap now. Damn, this thing is elegant. It&#039;s OK for me to use some of his methods, right?

@@ -1,0 +1,4 @@
+JLJac
+14
+
+<b>Update 114</b><br>Started to patch things up for the Prince of Arcade sneak peek release. It suddenly hit me that the game should probably be... playable until then. <br><br>The original design idea was that in a custom game, if one player died, the timer would be set to something very low so that the other players would only have just enough time to get to an exit. There&#039;s a problem here, as the light fading/sounds playing/screen shaking stuff that goes on when the rain is approaching is triggered by certain key frames, and those can&#039;t be skipped - meaning I can&#039;t instantly set the timer to something very low. I think I can work around that though, in a way more or less hideous code-wise.<br><br>Also started on the very basic frame work for a main menu.

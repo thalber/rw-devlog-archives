@@ -1,0 +1,4 @@
+JLJac
+76
+
+This is already how I do it! I just bake it together to a single image. All the rain world level art is 30 bitmap layers, each of them slightly smaller than the next, that together form semi-threedimensional objects. What I want to do now is the exact same thing, just at run time - so if I manage to do it it&#039;ll supposedly look the same, just moving.<br><br>Each layer texture has only a few colors, to indicate what color to grab from a palette. Maybe 6 colors all in all, including white which is treated as transparent. What&#039;s a tilemap? Can it help me?

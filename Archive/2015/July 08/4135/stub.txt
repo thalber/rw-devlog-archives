@@ -1,0 +1,4 @@
+JLJac
+206
+
+The big fish is gonna eat everything, is the idea. Like, why wouldn&#039;t it? It will have trouble catching up with the jet fish though!<br><br><div class="quoteheader"><a href="https://web.archive.org/web/20201112025959/https://forums.tigsource.com/index.php?PHPSESSID=jk0j3c8q61q2ir2ii5iguc83i3&amp;topic=25183.msg1157398#msg1157398">Quote from: JctWood on July 08, 2015, 07:18:32 AM</a></div><div class="quote">Is there a post where you have explained the systems behind making such wonderfully smooth soft bodies?<br></div>Here&#039;s technical guide in case you want to do it yourself:<br><a href="https://web.archive.org/web/20201112025959/https://forums.tigsource.com/index.php?topic=25183.msg1133480#msg1133480" target="_blank">http://forums.tigsource.com/index.php?topic=25183.msg1133480#msg1133480</a><br>The basic principle is that the creatures are composed of several 2D points with velocity vectors, that are locked at certain distances.

@@ -1,0 +1,4 @@
+JLJac
+76
+
+Well, it&#039;s not really a question of large sprites moving about as much as one unified terrain that&#039;s just going to be slightly displaced according to the perspective of the camera - so if we wanted it to be done <i>properly </i>parallax scrolling would be the solution, but I think it could very well be solved using some kind of depth map and a shader as well. I.e it&#039;s more about objects being viewed from slightly different angles rather than being moved around.<br><br>But maybe the dynamic shadows will be enough to give a sense of depth to the scenes, maybe scrolling environments aren&#039;t necessary. I&#039;ll have to go over this in my head a few times before I settle on a decision.

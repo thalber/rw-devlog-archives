@@ -1,0 +1,4 @@
+JLJac
+26
+
+<b>Update 152</b><br>Resolved some issues in the &quot;Egg Hunt&quot; game mode. Created a new function that makes it possible to repeat the level playlists. Created the functionality for a button that resets the game options to a default. Tweaked gamepad controls a little more. Resolved a few minor bugs.

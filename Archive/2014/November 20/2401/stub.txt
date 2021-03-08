@@ -1,0 +1,4 @@
+JLJac
+120
+
+<b>Update 359</b><br>Running around in the world James has been working on was amazing! I put on some rain world OST and just ran around exploring, and that&#039;s a pretty cool experience just that - no lizards or anything added yet. It&#039;s a lot of fun to for the first time play the game without having made the levels myself, the anticipation and curiosity obviously becomes much greater. 30 rooms feels big, I spent quite a lot of time just running around and trying to create a mental map of the place.<br><br>In other news, bats can now dive down and disappear in their weird &quot;bat grass&quot;, only to pop up in the grass somewhere else. The animation isn&#039;t really gif-worthy yet, but the basic mechanic is in there. Next up would be room-to-room migration, I believe. Saving extra dijkstra maps to the level files proved to be less of a horror than feared and anticipated.

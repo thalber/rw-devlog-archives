@@ -1,0 +1,4 @@
+JLJac
+8
+
+<b>Update 77</b><br>An insignificant step for the thread readers, but a huge leap for the developer! I&#039;ve managed to save a level editor project and load it again. This means that I don&#039;t have to start over every time I want to make a level, but can continue from where I left off. This, in turn, means I don&#039;t have to have all the tiles and plants and stuff I could possibly ever want for a level in order to start working on that level, as I can add in stuff later. This, in turn, means that I can finally start making actual levels for the actual game.

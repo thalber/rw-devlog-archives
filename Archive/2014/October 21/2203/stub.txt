@@ -1,0 +1,4 @@
+jamesprimate
+110
+
+<div class="quoteheader"><a href="https://web.archive.org/web/20141225223550/http://forums.tigsource.com/index.php?topic=25183.msg1074933#msg1074933">Quote from: JLJac on October 21, 2014, 05:09:11 AM</a></div><div class="quote">Thanks! <br><br><b>Update 342</b><br>Solved the problem with the offset, but the problem when publishing the build persists. Added distortion effect below the surface and correct perspective on the surface. Also started a little bit on having the physics react to the presence of the water.<br><br><img src="https://web.archive.org/web/20141225223550im_/http://imgwiz.com/images/2014/10/21/U4R7p.gif" alt="" border="0"><br><br>Color still WIP.<br></div><br><br>hnggggg this looks so damn good. ill have you all know that just 2 DAYS AGO, Joar was saying water effects were probably impossible, yet here we are and these are some PRETTY NICE WATER EFFECTS :D

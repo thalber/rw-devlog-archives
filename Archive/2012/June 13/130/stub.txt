@@ -1,0 +1,4 @@
+JLJac
+6
+
+<b>Update 57</b><br>Made a pixel animation for the rotation of the croc&#039;s head. It looks nice, I think! It seems that only the head will in the end consist of four sprites, the head, the lower jaw, the teeth of the lower jaw and also one sprite with the teeth of the upper head and the eyes. Phew.<br><br>Preferably the lower jaw sprite will be below the player, so that when the croc carries you it&#039;ll look like you&#039;re really pinched in between the jaws. Because of the separate teeth sprites these can too be placed below the player, hopefully making it look like they&#039;re inside the players body (to those who play the game through a magnifier glass).<br><br>I&#039;m sorry about those boring graphical updates, but remember that they lead to something everybody loves, exciting graphics!<br>

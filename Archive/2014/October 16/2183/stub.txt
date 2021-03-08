@@ -1,0 +1,4 @@
+jamesprimate
+109
+
+you recall in the lingo there were dotted lines and blinking arrows that illuminated when you were close to a shortcut, showing where it went? joar just hasnt gotten around to implementing that stuff yet or the &quot;travel&quot; animations.<br><br>that said, its still something we want to highlight and polish more in this version, but will prob take some thought and design work. weve even talked about this as recently as 2 days ago, but basically just &quot;not there yet&quot; etc etc

@@ -1,0 +1,4 @@
+JLJac
+11
+
+<b>Update 97</b><br>Aaand I added the ability to define a random seed for an effect in the level editor, which means that if some plant or some wires or whatever feature turned out good you can actually keep them, while changing something else that you didn&#039;t like. Made a quick test where I kept an entire level the same but changed only one plant, and layered the outputs over each other to check - it seems to work! This is a good time saver when it comes to making levels.<br><br>That&#039;s it for today!

@@ -1,0 +1,4 @@
+JLJac
+7
+
+Glad you liked it!<br><br><b>Update 63</b><br>Today I worked a bit on the level editor again. Added another effect, old electrical cords. They come in 1px, 2px and 3px thickness. Also note how the new shadow palette blends the cast shadow with the self shadowing on the tiles.<br><br><img src="https://web.archive.org/web/20200806011925im_/http://oi49.tinypic.com/4vs3nk.jpg" alt="" border="0"><br><br>There&#039;s a little fog going on as well right now, I&#039;m debating with myself wether or not to keep it. It seems cleaner with flat color surfaces, but it looks a little better with gradients, maybe? It adds a little deptht to the image.<br><br>

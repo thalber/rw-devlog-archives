@@ -1,0 +1,4 @@
+jamesprimate
+354
+
+<div class="quoteheader"><a href="https://web.archive.org/web/20170608061313/https://forums.tigsource.com/index.php?topic=25183.msg1338166#msg1338166">Quote from: Manray on June 04, 2017, 08:00:31 am</a></div><div class="quote">So, any news on the update?<br></div><br>nothing terribly new to report, im afraid! just doing the boring parts right now such as &quot;making it all work together&quot;, placing the new bits, making sure the new bits dont break the old bits, etc.

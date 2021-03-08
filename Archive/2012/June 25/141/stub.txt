@@ -1,0 +1,4 @@
+JLJac
+7
+
+<b>Update 64</b><br>Improved the way creatures are displayed when moving in shortcuts. Now they are also visible against &quot;back walls&quot;, meaning that you won&#039;t lose track of your character for a few frames the way you used to.

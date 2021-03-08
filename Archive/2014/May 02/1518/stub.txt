@@ -1,0 +1,4 @@
+JLJac
+75
+
+Gasp, Unity limits texture sizes to 8000px. I have to do some <i>serious </i>re-thinking here. A thousand things going on in my head, including writing a custom compression format for 3D voxel textures... 

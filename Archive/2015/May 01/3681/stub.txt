@@ -1,0 +1,4 @@
+JLJac
+184
+
+Yeah the grating effect is cool, and we&#039;re gonna use that as well - but I also wanted the standard bumpmap look. Slowly getting there, I think - here&#039;s a comparison of two coloration models I&#039;ve been trying:<br><br><a href="https://web.archive.org/web/20150505022238/http://gfycat.com/WebbedDentalErne" target="_blank">http://gfycat.com/WebbedDentalErne</a><br><br>The lantern mouse behavior is because the fleeing AI is really, really, <i>really </i>bad. I cry tears of shame every time I think of it. I just can&#039;t figure out how to make a fleeing behavior using A* path finding -_- I&#039;ll definitely have to get back in there some time haha.

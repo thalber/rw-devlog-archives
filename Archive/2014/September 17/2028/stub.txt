@@ -1,0 +1,4 @@
+JLJac
+101
+
+Yep! The more baked maps, and the more apart their origins, the more accurate the triangulation becomes.<br><br>What the system doesn&#039;t account for however is one-way connections, as it&#039;s just comparing distances it doesn&#039;t know the difference between positive or negative distance, or what kind of connections the distances go through.

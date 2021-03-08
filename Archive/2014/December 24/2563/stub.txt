@@ -1,0 +1,4 @@
+jamesprimate
+128
+
+HM, well SUPPOSEDLY those cards can go up to shader model 4, so maybe try to update: <a href="https://web.archive.org/web/20150108045721/http://www.intel.com/p/en_US/support/detect" target="_blank">http://www.intel.com/p/en_US/support/detect</a><br><br>but yeah, those intel &quot;hd graphics&quot; cards... <img src="https://web.archive.org/web/20150108045721im_/http://forums.tigsource.com/Smileys/derek/sad.gif" alt="Sad" border="0"><br><br>Talked with Joar about this last night, and he is going to try to do a lighter version of the shaders down the line a bit, but probably not until the game is nearing completion. sorry! :/

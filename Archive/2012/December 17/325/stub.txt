@@ -1,0 +1,4 @@
+JLJac
+16
+
+<b>Update 124</b><br>The completion of the game can basically be boiled down to four points from here:<br><br>1 - Create a working menu(With art)<br>2 - Finish the world map(Including tutorial level)<br>3 - Make different gametypes for custom mode<br>4 - Polish and bug fixes (I&#039;m afraid of this one)<br><br>Today I did some work on the menu, and created a way for multiple menu pages to exist. Now you can go from the &quot;Main menu&quot; page to the &quot;Custom Game&quot; page but not back again. Yay, progress!

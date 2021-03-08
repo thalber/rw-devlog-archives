@@ -1,0 +1,4 @@
+jamesprimate
+184
+
+Thx thx for the feedback! Yes the super jump and backflip sounds are definitely worth further consideration. Joar wants to keep some nod to the cartoony aspects, so that&#039;s where that comes from, though striking the right balance between &quot;cartoon&quot; and &quot;nature documentary&quot; is going to take some fiddling. We have yet to implement the ambient (atmospheric) audio engine, so I&#039;m looking forward to hearing how this current soundset works in that context.<br><br>Audio design is a weird process. It&#039;s like erosion smoothing away the corners of rocks in a stream.<br><br>And speaking of water, to tortoiseandcrows comment, yes&nbsp; indeed! we just discussed adding a set of triggers for impacts and etc in specific environments, so wet splishes, dusty fuffs, metallic clangs, etc. this will be layered with the impact sound just as you described.

@@ -1,0 +1,4 @@
+JLJac
+72
+
+Thanks everyone!<br><br>Collision is all home brewn code, like everything else in the game except sprite handling, where I use the excellent Futile framework. It&#039;s strictly tile based for terrain and radius/trigonometry based for creatures, simple as that.<br><br>Yeah, I know I need to watch out for backwards conmability... Ran into that issue a few times with the old level editor. This time around I don&#039;t think it&#039;ll be as big of a problem though, as the game will not evolve as much during the process since it&#039;s already designed.

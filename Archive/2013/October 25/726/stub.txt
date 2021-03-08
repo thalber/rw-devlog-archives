@@ -1,0 +1,4 @@
+JLJac
+36
+
+<b>Update 190</b><br>Biiiiig sound update. Now all the menu interactions have sounds. It makes a huge impact on the feel of the menu, really makes everything more solid.<br><br>Also I added other &quot;HUD&quot; sounds, such as &quot;custom game match started&quot;, &quot;game over&quot;, &quot;score&quot;, &quot;kill&quot;, etc. Still a few things to go perhaps, for example the pause menu is still completely silent. <br><br>And as a bonus I finally made a sound for when the slug cat is chewing on a fly. I mixed together some old stuff I had with some new stuff I got from James, and managed a chew with just a little bit of wetness to it. It sounds OK. A fly is eaten in three bites. I&#039;ve made the last bite have a <i>slightly </i>more high pitched sound, as a subtle cue that the fly is finished.

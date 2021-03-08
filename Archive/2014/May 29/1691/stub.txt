@@ -1,0 +1,4 @@
+JLJac
+84
+
+The warp effect is actually there to make things look wet and slippery, but because the shader behaves differently in the editor ( <img src="https://web.archive.org/web/20141225201522im_/http://forums.tigsource.com/Smileys/derek/mockangry.gif" alt="Mock Anger" border="0"> <img src="https://web.archive.org/web/20141225201522im_/http://forums.tigsource.com/Smileys/derek/mockangry.gif" alt="Mock Anger" border="0"> <img src="https://web.archive.org/web/20141225201522im_/http://forums.tigsource.com/Smileys/derek/mockangry.gif" alt="Mock Anger" border="0">) than in the build I had to make it slightly exaggerated - it&#039;s only supposed to move colors one single pixel, not look like everything is melting heh!

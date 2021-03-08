@@ -1,0 +1,4 @@
+JLJac
+35
+
+Yeah, they have that behaviour. In this case it&#039;s because he&#039;s stunned though, he just recieved a hit to the head. If you don&#039;t harass them they&#039;re usually able to manouver around quite well, but when they get hit in the head they&#039;re often turned around so that their orientation is different from what their path finding brains think, and then they need a moment to readjust. <br><br>A moment that I, in this case, used to my advantage <img src="https://web.archive.org/web/20141229074513im_/http://forums.tigsource.com/Smileys/derek/evil.gif" alt="Evil" border="0">

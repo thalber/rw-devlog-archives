@@ -1,0 +1,4 @@
+JLJac
+59
+
+This is waaaaaaaay too much pre-defined stuff. That stuff would get in the way and become a huge problem for me. But you say it&#039;s possible to just turn it off and use only the things I like? Having sprites in different layers for example would be kind of neat.<br><br>The camera stuff as well - I don&#039;t want that. If I need that I&#039;ll do that myself. I worry that it&#039;ll chip away at performance simply by *actually being a 3D camera* though I don&#039;t use any of that functionality.<br><br>Edit: like, it runs slower because it <i>could</i> do a bunch of things I don&#039;t actually do. Like, the fact that it has the potential to zoom slows the rendering down compared to if that function didn&#039;t even exist, which would be preferable if I never use it.

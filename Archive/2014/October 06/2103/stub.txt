@@ -1,0 +1,4 @@
+JLJac
+105
+
+That <i>could </i>be added, but I think I won&#039;t, because it&#039;d be inconsistent to have some such things be static and others be interactive. You never know though, if there is some way to do it stylistically in line with the rest of the game... As for whether all environmental components are in the game - if you mean stuff like plants and chains and other such decorations, of course not! Lots to be added when we get to the Art Phase.

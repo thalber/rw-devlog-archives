@@ -1,0 +1,4 @@
+JLJac
+110
+
+Thanks! <br><br><b>Update 342</b><br>Solved the problem with the offset, but the problem when publishing the build persists. Added distortion effect below the surface and correct perspective on the surface. Also started a little bit on having the physics react to the presence of the water.<br><br><img src="https://web.archive.org/web/20141225223550im_/http://imgwiz.com/images/2014/10/21/U4R7p.gif" alt="" border="0"><br><br>Color still WIP.

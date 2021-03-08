@@ -1,0 +1,4 @@
+JLJac
+10
+
+<b>Update 90</b><br>Made the lizards able to pick up objects. Depending on color and mood they might pick up spears, or in some cases a rock, and dispose of them either by carrying them back to their holes or by dropping them out of the level.<br><br>The spears are a very real threat to the lizards, and it would be stupid of them to not do anything. <br><br>The next thing I need to do is make the lizards respond AI-wise to a player holding a spear, but I&#039;m not sure how to do this. If all the lizards flee as soon as they see you picking a spear up a spear will be pretty much an infinite invincibility power-up, as you would never have to actually <i>use </i>it. On the other hand, as it stands the lizards just run straight at you when holding a huge thing that should be easily visible and that can neutralize most of them in one blow. They will have to still attack, but in a more sneaky manner. We&#039;ll see what I come up with.

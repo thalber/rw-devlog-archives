@@ -1,0 +1,4 @@
+JLJac
+14
+
+Hehehe welcome to the depths of my insanity!<br><br><b>Update 112</b><br>Added a few sounds I got from James. Worked a little with the bubble creature, changed its appearance a little.<br><br>Update: Aaaaand added eggs into the same framework as other objects, so they appear in one place consistently!

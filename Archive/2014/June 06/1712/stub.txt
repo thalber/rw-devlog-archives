@@ -1,0 +1,4 @@
+jamesprimate
+85
+
+so here is a video of the multi-camera thing ROUGHLY implemented, just slapped on to current levels to experiment with: <a href="https://web.archive.org/web/20141225201517/https://www.youtube.com/watch?v=5mV4Rry2Q84" target="_blank">https://www.youtube.com/watch?v=5mV4Rry2Q84</a><br><br>there are two different ideas being tested in this, :06 is basically two connected rooms and the screen camera just swaps when you exit (with a little overlap) and :40 has the cameras set in more drastically different places, which might be worth considering for future level design.<br><br>also at 1:00 there is a test level seeing how multi-room platforming might be (answer: hard.) shows off some of the new limb animations!<br><br>(worth noting: this is probably not at all how it will be implemented, just early testing of the functionality.)

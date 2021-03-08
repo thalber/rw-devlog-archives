@@ -1,0 +1,4 @@
+JLJac
+115
+
+Thank you! We&#039;re not through yet though&nbsp; <img src="https://web.archive.org/web/20141215131928im_/http://forums.tigsource.com/Smileys/derek/shocked.gif" alt="Shocked" border="0"><br><br><b>Update 349</b><br><br>Shortcut visualizations coming along.<br><br><img src="https://web.archive.org/web/20141215131928im_/http://imgwiz.com/images/2014/10/30/9Wpvx.gif" alt="" border="0"><br><br>Most things are still missing - there should be little indicators at the exits, the entire length of the shortcut should blink when you get close to it to make it apparent where you&#039;ll end up, etc etc. More tomorrow!

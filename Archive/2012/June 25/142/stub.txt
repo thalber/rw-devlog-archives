@@ -1,0 +1,4 @@
+JLJac
+7
+
+<b>Update 65</b><br>Added another layer of background, to create more depth and sense of place in the levels. The process was surprisingly painless.<br><br><img src="https://web.archive.org/web/20200806011925im_/http://oi50.tinypic.com/2u6zo1u.jpg" alt="" border="0"><br><br>This doesn&#039;t in any way affect the game itself, which still just loads a two-dimensional image and has no idea about how it was rendered or what it looks like.<br><br>

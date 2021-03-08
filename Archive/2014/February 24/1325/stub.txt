@@ -1,0 +1,4 @@
+JLJac
+66
+
+Ok, changed it to fixedUpdate! What&#039;s the difference, even?<br><br>Other, more important question - how do I delete an instance?<br><br>And remove it from the list it&#039;s in, of course. The best solution would obviously be to have some kind of destroyMe function to call, where the object would find itself in the update list and remove it self. Problem is, we&#039;re currently looping through the update list, so there&#039;s a risk it&#039;ll skip an item. 

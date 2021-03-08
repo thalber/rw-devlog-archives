@@ -1,0 +1,4 @@
+JLJac
+98
+
+That was the idea, and it worked! But what if the body doesn&#039;t get there? Because the whole creature decides to turn around and go the other direction, or because all four limbs aim for the sky simultaneously, none of them get a grip, and the whole thing just ends up on its belly, reaching for a future that will never come?<br><br>I think there is a solution in having it re-evaluate if it ends up in a position where it is stretching but not reaching, and the second time around only consider strictly valid grasping points... But I&#039;ll have to let it simmer around a bit until I can come up with a way of turning it into actual code.

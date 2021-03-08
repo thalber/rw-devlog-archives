@@ -1,0 +1,4 @@
+JLJac
+5
+
+<b>Update 44</b><br>OK, now the alpha is more or less ready to be sent out. I just need to add some instruction text, and maybe a calm little turorial level where you can learn how to move.<br><br>If you play two people it&#039;ll rank you at the end of the game, according to a system where a surviving player is always ranked above a dead one, and aside from that it goes by how many flies you&#039;ve caught.<br><br>I realized that the fun of playing a level is doubled if it&#039;s given at least some graphics, so I&#039;ll actually do renderings of the levels. Note that these are just quick renderings with a default tileset, the real levels for the game will have quite a lot of custom graphics going on.<br><br>Next thing I&#039;ll put togther a questionnaire to go with the alpha and then I&#039;ll send it out. We&#039;re almost there!

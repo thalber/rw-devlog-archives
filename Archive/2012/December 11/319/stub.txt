@@ -1,0 +1,4 @@
+JLJac
+15
+
+<b>Update 121</b><br>Added three new plants to the level editor: fern, mushroom and plain grass.<br>Also sorted out a problem with the light renderer that made a plant or object just a neon-colored silhouette when light hit it. The problem was that I had forgotten to rename a variable... 

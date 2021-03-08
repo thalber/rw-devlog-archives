@@ -1,0 +1,4 @@
+JLJac
+13
+
+<b>Update 107</b><br>Did a little bit of cleaning up - and made the new &quot;shortcut symbols as sprites&quot;-system work better. It wouldn&#039;t hurt to give it some more polishing, but now it is basically up an running as I want to, with the symbols following the screen shake and everything.<br><br>Also enabled the poor flies to release their chains when the rain is approaching. Up till now the ones that had formed chains would just be hanging there as everything else escaped back into their holes, now they too have the sensibility to let go and fly home.

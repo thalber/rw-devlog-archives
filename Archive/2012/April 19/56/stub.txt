@@ -1,0 +1,4 @@
+JLJac
+2
+
+<b>Update 27</b><br>Added glass tiles, which are in every way the same as walls except that creatures can see through them. It&#039;s fun to see the lizards spot you through a glass wall and then find a way to get to the other side of the glass. Don&#039;t know how much I will actually use this in the levels, but it&#039;ll be in there somewhere just to point out the divide between visual contact and path finding, showing off some croc intelligence. Possibly there&#039;ll be some level that&#039;s a maze of glass with only a few blocks of solid material, where you&#039;ll have to move quickly from cover to cover waiting for a croc to face the other direction. 

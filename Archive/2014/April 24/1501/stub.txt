@@ -1,0 +1,4 @@
+JLJac
+75
+
+Thanks guys! This looks really promising! Anyone have a good starting point when it comes to the actual code syntax?<br><br><b>Update 227</b><br>We have working short cuts! A creature can go into a hole in one place and pop out in another. When in the shortcut, the creature is completely detached from all rooms, which means that no camera is viewing it and its sprites will be discarded. I don&#039;t quite know yet if this is a good idea. It doesn&#039;t feel like the best possible optimization to delete all sprites of a creature and then recreate them just because that creature isn&#039;t visible for 2 seconds... But I&#039;ll handle that problem when it becomes a problem. Trying hard with the premature optimization avoidance here, it&#039;s so tempting to try to make everything <i>perfect </i>now that I have the chance to recode the entire thing!

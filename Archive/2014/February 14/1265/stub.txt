@@ -1,0 +1,4 @@
+JLJac
+63
+
+If any of you know about a Unity 2D game tutorial with c#, throw it at me! The ones I find are very drag-n-droppy, with boxes that get behaviors attached to them etc. I&#039;m looking for something that&#039;s more stripped of the unity stuff, where the game is written more in plain code - I want to have unity for the publishing options and debugging etc, the less user friendly drag-and-drop stuff I have to deal with the better. 

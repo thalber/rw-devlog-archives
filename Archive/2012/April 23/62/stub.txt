@@ -1,0 +1,4 @@
+JLJac
+3
+
+<b>Update 31</b><br>An entire day&#039;s worth of progress without even opening the game, only working in the level editor. Got tile sets up and running, so now I can create not only loose objects, but tile sets that will be rendered as larger, consistent structures, like concrete and the like. <br><br>The next step will be to finalize the level editor to the point where I can save a level project as a text file. Once this step is reached I can start working on levels for the game. I don&#039;t really need the level editor to be completely finished for that.

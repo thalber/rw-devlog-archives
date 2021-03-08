@@ -1,0 +1,4 @@
+JLJac
+3
+
+Yeah, the project is starting to get big, so stuff like that might be necessary o.0<br><br><b>Update 29</b><br>Created spawnpoints for the players, and tied in the system with player and croc spawning in the shortcut system. This is mainly a question of lazyness, as now I won&#039;t have to make separate animations for a creature entering its hole and a creature entering a short cut. Basically the spawn points/home holes are shortcut openings, but instead of leading to another shortcut opening they lead to an invisible little flag, saying &quot;this is a bear spawnpoint&quot; or &quot;this is a croc hole&quot;. <br><br>The croc is becoming more and more animated, now it has a body and a tail. Legs next, or head. 

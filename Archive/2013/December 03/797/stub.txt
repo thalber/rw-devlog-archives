@@ -1,0 +1,4 @@
+JLJac
+39
+
+Can&#039;t record video <img src="https://web.archive.org/web/20141231042030im_/http://forums.tigsource.com/Smileys/derek/sad.gif" alt="Sad" border="0"> <br><br>@artemi, yeah, we&#039;re on the same page then!<br><br><b>Update 205</b><br>With the pups&#039; behavior somewhat done, I&#039;ve started to look at their appearance. Picking apart the two year old animatronic doll of the player character in order to adapt it for smaller size is very interesting. Honestly I had forgotten my solutions for many of the problems, and now have to discover them all over again. Also it&#039;s a challenge, because now we&#039;re down to a size were every pixel counts, and things like pixel displacement because of sprite rotation can have a huge impact on the general appearance. 

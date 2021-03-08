@@ -1,0 +1,4 @@
+JLJac
+5
+
+<b>Update 49</b><br>A friend helped me with the traingle problem, and it&#039;s out of the way! The croc legs are just about finished. They&#039;ve reached a good-enough kind of level, where I&#039;ll leave them to maybe revisit them later. The movement looks quite different now, they&#039;re like... hauling themselves forward through the corridors. <br><br>The movement speed is determined by how many legs are grasping, if all four limbs are holding on to something it moves very quickly, if all of them are in the air the body barely moves at all. There is a little cheating though, even with no legs contacting terrain there is <i>some </i>movement, so that it won&#039;t get stuck. <br><br>Still some flickering going on with the knees though, more fine tuning needed.<br>

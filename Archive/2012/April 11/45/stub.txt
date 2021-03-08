@@ -1,0 +1,4 @@
+JLJac
+2
+
+Gah I solved it... Went back to an old approach and solved it.<br><br><img src="https://web.archive.org/web/20201129232222im_/http://oi41.tinypic.com/bfmfeh.jpg" alt="" border="0"><br><br>No one except me can spot the difference I guess, but the difference is that now the shadows are CORRECT! Rendering time is something like 7 minutes or something though... But that&#039;s OK with me... At least it WORKS!

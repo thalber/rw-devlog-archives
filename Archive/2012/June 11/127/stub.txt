@@ -1,0 +1,4 @@
+JLJac
+6
+
+<b>Update 55</b><br>Further animation work on the croc. I made its head change color, a weird art direction choice that has actually been around forever, but which I don&#039;t think I&#039;ve told you about. Will try it out some more to see if it works, if so it&#039;ll stick. The color changes are between black and a color, not all around the palette, and they help communicate whether or not the croc has spotted you. It looks cool but needs a lot of polish. Other than that the croc&#039;s jaw has gotten some more animation, now it opens it up when approaching a player and snaps it shut when attacking. <br><br>Hopefully the next video I upload will be a graphically exciting one.

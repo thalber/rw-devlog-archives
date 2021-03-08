@@ -1,0 +1,4 @@
+JLJac
+10
+
+Haha yeah, it&#039;s pretty brutal!<br><br><b>Update 93</b><br>Finally got around to working on some art today, which enabled me to send two &quot;final&quot; levels (there&#039;s always more changes to be done) to James, so he can start getting some feel for what this game will look like.<br><br>Made it so that dead lizards fall through platform type terrain, sometimes the corpses would end up with their torso on a platform and their hips below it and get stuck in a vibrating motion, now they just fall straight through to the ground.

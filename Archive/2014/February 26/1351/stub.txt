@@ -1,0 +1,4 @@
+JLJac
+67
+
+The thing I want to set seems to be &quot;filterMode&quot; - the Unity documentation puts it like this:<br><br>renderer.material.mainTexture.filterMode = FilterMode.Trilinear;<br><br>This doesn&#039;t work for Futile though, because the Futile game object doesn&#039;t have a renderer, it says. But it has to have one, right? Or a material? I&#039;ll keep experimenting...

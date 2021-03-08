@@ -1,0 +1,4 @@
+jamesprimate
+84
+
+i think the warping effect is a shader to show a kind of misty, drippy pre-rain atmosphere. but you are seeing it without the physical drips, etc. i think it will make a lot more sense in context. now it just looks like, well, &#039;Small Dose of LSD World&#039;. which is not necessarily a bad thing!

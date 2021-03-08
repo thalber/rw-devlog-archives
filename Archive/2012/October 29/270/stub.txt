@@ -1,0 +1,4 @@
+JLJac
+13
+
+<b>108</b><br>Spent some time making the &quot;rain getting closer&quot;-stuff a little more polished. Spent about half an hour trying to figure out why the hell a sample wouldn&#039;t loop properly, until I realized that the file was named &quot;rain loop&quot; despite it not being loopable at all ... Thank you James&nbsp; <img src="https://web.archive.org/web/20141225223743im_/http://forums.tigsource.com/Smileys/derek/tongue.gif" alt="Tongue" border="0"><br><br>Right now the game seems to almost always load and play the same song, I&#039;ll have to look into that. I&#039;m just happy as long as the bugs are reachabe from the code I write, and not hidden in the basic functions of Macromedia Director. Everyone hates hunting bugs, but I tell you, you learn to appreciate hunting <i>findable </i>bugs after having tried to chase the ghost of something that can&#039;t be found and can&#039;t be fixed...

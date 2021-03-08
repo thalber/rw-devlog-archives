@@ -1,0 +1,4 @@
+JLJac
+29
+
+Yup, there&#039;s a little water dripping from the ceiling. It&#039;s difficult to include more effects though, becuase of the strange 2D/3D level image. I can&#039;t really draw something like a puddle on the level - as I&#039;m restricted to draw everything between the foreground and the background it&#039;s impossible to draw anything that&#039;s aligned with a horizontal surface.<br><br><b>Update 161</b><br>A lot of work, but little to tell. Little visual details and so on beaing tweaked... Created a function for checking whether a custom game should end, so that in hopeless situations where you&#039;re captured by a lizard it just ends it rather than having you wait until you&#039;re carried to the lizard&#039;s den. If you&#039;re captured by a lizard but have a friend there to save you the game plays on until it&#039;s sure that all hope is gone.

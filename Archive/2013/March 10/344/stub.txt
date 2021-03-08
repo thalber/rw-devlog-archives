@@ -1,0 +1,4 @@
+JLJac
+17
+
+<b>Update 128</b><br>These UI updates are so boring I almost feel ashamed to post them... Anyway, here we go: Today I made a scrolling list! It displays 15 items, and if you go to the bottommost item and click down it brings up one new item. If you reach the very bottom it brings you back to the top. The same goes for clicking upwards. For mouse users there are little arrows at the bottom of the list that makes the list scroll. Yaaaaaawn.<br><br>My next game won&#039;t have a menu system, it&#039;ll just have an external text file were you can input your preferences in a terribly complicated code language.

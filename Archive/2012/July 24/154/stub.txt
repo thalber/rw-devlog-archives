@@ -1,0 +1,4 @@
+JLJac
+7
+
+<b>Update 70</b><br><br>Today I successfully connected a couple of placeholder levels together to a hub world.<br><br><img src="https://web.archive.org/web/20200806011925im_/http://oi46.tinypic.com/i6m2b8.jpg" alt="" border="0"><br><img src="https://web.archive.org/web/20200806011925im_/http://oi45.tinypic.com/dqwl1.jpg" alt="" border="0"><br><br>You can move freely between the levels, and there&#039;s consistensy in which entrance leads where, and if you go back you&#039;ll appear out of the same entrance you left through. Hopefully.<br><br>Soon, I&#039;ll start to actually build the world. I do have a map of what levels connect where, but will improvise the layout of the actual levels.

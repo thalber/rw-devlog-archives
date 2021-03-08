@@ -1,0 +1,4 @@
+JLJac
+19
+
+<b>Update 139</b><br><br>Yesterday I did some small but important changes, most notably changing the hard coded &quot;if key is pressed&quot; solutions for input into an actual input system, that I copied straight from my old game <a href="https://web.archive.org/web/20141225164351/http://forums.tigsource.com/index.php?topic=8078.0" target="_blank">block towers</a>. There&#039;s still no way to set up your controls, but I should get to that. Another thing I did was to save the options to a file in a similar manner to the save games, though not encrypted. <br><br>And I made this mock-up for a pause screen:<br><br><a href="https://web.archive.org/web/20141225164351/http://oi43.tinypic.com/m7ytnb.jpg" target="_blank"><img src="https://web.archive.org/web/20141225164351im_/http://oi43.tinypic.com/m7ytnb.jpg" alt="" width="270" height="200" border="0"></a>

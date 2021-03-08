@@ -1,0 +1,4 @@
+JLJac
+79
+
+Thanks guys! Yeap, those solutions are actually how I solved it! But the reason why I wanted to do it with proper if statements was that I didn&#039;t want to check for shadowing objects if I already knew the pixel was in shadow. I didn&#039;t want it to run that code unless necessary.<br><br>Speaking of which, how expensive is tex2D? I do it quite a lot, heh -

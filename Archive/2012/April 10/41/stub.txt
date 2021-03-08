@@ -1,0 +1,4 @@
+JLJac
+2
+
+<b>Update 19</b><br>The level editor can now save a level, and the game can load it. What this means is that the limiting factor of how long a level can take to render is how long you&#039;re willing to wait after having made a level, not how long you&#039;re willing to wait when starting a game.<br><br>This makes testing stuff a slight bit more awkward for me, as I have to actually save a level first. That&#039;s why I waited until now to do it.<br><br>Soon I might actually get around to some art stuff. 

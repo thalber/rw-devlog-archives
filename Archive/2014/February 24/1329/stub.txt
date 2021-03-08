@@ -1,0 +1,4 @@
+JLJac
+66
+
+Wonderful! Seems too good to be true!<br>The sprites actually stay on screen - inactive - if I remove the object. The way it works in futile, from how I understand it, is that you create an &quot;atlas&quot; which is a big texture, and then all the sprites can draw their little part of that texture, minimizing draw calls. <br><br>My guess here is that the futile framework keeps track of its sprites itself, and that&#039;s why they still hang around on the screen. I&#039;ll just have to find some kind of keyword for Futile sprite removal, but Futile&#039;s entire documentation is this one reddit page haha XD And I&#039;m the worst at reddit, I don&#039;t even know how to make a localized search happen. Good times!

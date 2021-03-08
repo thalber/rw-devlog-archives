@@ -1,0 +1,4 @@
+JLJac
+6
+
+<b>Update 56</b><br>Made the croc&#039;s legs work the same way as the player&#039;s arms, they&#039;re a pixel animation that changes picture depending on distance while the software does the rotation. It looks ok, though not as good as the previous vector solution. But, it released a lot of milliseconds per frame, which can be used for other cool stuff.<br><br>As you who have played the alpha know the croc used to just pop out of existance when entering a shortcut. I made a ten frame phase where the body is sucked into the opening before it&#039;s taken out of play, hopefully creating a smoother look (and also giving you a slight advantage, since a croc will now be delayed ten frames when pursuing you through a shortcut). The player already had an animation like this, and the fly don&#039;t need one as it is already entirely covered by the shortcut graphic once the popping out of the level occurs.<br>

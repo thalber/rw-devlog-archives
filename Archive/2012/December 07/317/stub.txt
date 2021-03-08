@@ -1,0 +1,4 @@
+JLJac
+15
+
+Hehe that&#039;s a cool idea! It&#039;s not what I had in mind for the eggs though - the eggs will work as a single player collectable. I&#039;m planning to have a sandbox gametype where you can spawn whatever lizards you want, if you&#039;ve collected their egg in single player mode. And maybe there&#039;ll be an &quot;egg hunt&quot; gametype as well, where there are no flies and the players compete to steal eggs from the lizards. Apart from all this the eggs will be worth some food points, they&#039;ll equal to 4 or 5 flies, or whatever seems reasonable.<br><br>James, what about the bubble creatures? They&#039;re just... bubbles. I&#039;ll send you a level where they&#039;re present so you can check them out <img src="https://web.archive.org/web/20141227133745im_/http://forums.tigsource.com/Smileys/derek/smiley.gif" alt="Smiley" border="0">

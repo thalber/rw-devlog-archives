@@ -1,0 +1,4 @@
+JLJac
+87
+
+Yup, sent him an email!<br><br>Sorry people, no proper update today. I spent all day fighting with an A* implementation, and finally found the bug, so that&#039;s good. The pathing algorithm can now be fed different preferences, such as ability or disability to climb walls and the like, and find paths according to those. This was substantially harder to implement than I thought it&#039;d be, mostly because of the little bug that gave some weird unpredictable results and took quite a while to identify. More exciting stuff tomorrow!

@@ -1,0 +1,4 @@
+JLJac
+11
+
+<b>Update 95</b><br>Made a little more art for the levels.<br><br>Gave the lizards a &quot;jaw strenght&quot; stat, that regulates a random chance of how often a player that is caught is killed instantly and how often they are alive to be saved. This is to not make the players too comfortable with always surviving a lizard bite - I&#039;m worrying that players in co-op mode might find ways to exploit it. For the pink one, that I view as the &quot;standard&quot; lizard, it&#039;s a chance of 1/12. On top of this there&#039;s a small chance of death every frame you&#039;re being held in a lizard&#039;s mouth, so that the player who&#039;s supposed to save you doesn&#039;t relax too much, but has a reason to chase frantically. The games get pretty hectic!

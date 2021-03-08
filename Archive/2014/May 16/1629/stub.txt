@@ -1,0 +1,4 @@
+JLJac
+81
+
+Yeah, now when the tail is all code that could definitely be done!<br><br><b>Update 139</b><br><br><img src="https://web.archive.org/web/20141228135528im_/http://imgwiz.com/images/2014/05/16/B83d.gif" alt="" border="0"><br><br>Piece by piece! Now we have a head, and the legs are about halfway implemented. Normal running is in as you can see, but the special cases for jumping, wall climbing, crawling etc need to be done.

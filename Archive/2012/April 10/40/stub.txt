@@ -1,0 +1,4 @@
+JLJac
+2
+
+Yeah, the creatures won&#039;t &quot;take&quot; or cast shadows, unless I want a framerate of... let&#039;s see... about one frame each 8 seconds <img src="https://web.archive.org/web/20201129232222im_/https://forums.tigsource.com/Smileys/derek/tongue.gif" alt="Tongue" border="0"><br><br>Thing is that the huge, complicated process of generating graphics for a level will have a slightly anticlimatic ending; one picture that&#039;s behind the game objects and one that&#039;s in front of them... But the process is still necessary, if those two pictures are to look good!

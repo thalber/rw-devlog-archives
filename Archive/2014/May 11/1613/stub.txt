@@ -1,0 +1,4 @@
+JLJac
+80
+
+Thanks! Yeah, in a resources subfolder, but that&#039;s working fine with the levels, so I don&#039;t see why it should be trouble with the palette.<br><br>Hm, is that a syntax you&#039;ve tried yourself? It says it&#039;s invalid syntax at my end... <br><br>In either case we&#039;ve asked Matt Rix himself on reddit, and he&#039;s on it! He seems super helpful and approachable <img src="https://web.archive.org/web/20141228135528im_/http://forums.tigsource.com/Smileys/derek/smiley.gif" alt="Smiley" border="0">

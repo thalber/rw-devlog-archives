@@ -1,0 +1,4 @@
+JLJac
+107
+
+Outline is because of the re-sized screen, there occurs some kind of rounding error in the shader that makes that happen.<br><br>Yep, rain clouds grow as the rain approaches!<br><br><b>Update 337</b><br>Cleaned up some den stuff, including a bug where a lizard would believe it had access to a den despite that not being the case.<br><br>The afternoon I&#039;ve spent working on the lizard tongue, if you remember? It&#039;s turning out pretty cool! But I&#039;m not quite happy enough to show it just yet though. The basic functionality is in - lashing out, latching on to another creature, reeling it in. Also graphics are more or less there, I applied the triangle mesh code from the tail and am working on making the tongue a little bendy this time around, contrary to the straight line of the lingo version. Tomorrow I&#039;m hoping to have some cool gifs of it!

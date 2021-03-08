@@ -1,0 +1,4 @@
+JLJac
+13
+
+<b>Update 105</b><br>Here&#039;s just a random screenshot:<br><br><a href="https://web.archive.org/web/20141225223743/http://oi50.tinypic.com/692deu.jpg" target="_blank"><img src="https://web.archive.org/web/20141225223743im_/http://oi50.tinypic.com/692deu.jpg" alt="" width="270" height="200" border="0"></a><br><br>The graphics are not really turning out the way I want to. I think the problem is that the tiles are too small - I get a clutter of detailed small objects rather than fewer, bigger machines. Problem is that big things have to be custom tailored for a specific level, and can&#039;t be used again. Maybe if I started to draw machine <i>parts </i>rather than the whole machines, I could piece them together in different ways on the different levels...

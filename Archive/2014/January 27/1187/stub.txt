@@ -1,0 +1,4 @@
+JLJac
+59
+
+Thanks so much! I&#039;m absorbing all this like a sponge. Or the things I understand - I don&#039;t have much experience with this stuff and I&#039;m not a native english speaker, so sometimes I run into trouble trying to decode your helpful advice. This for example:<br><br><div class="quoteheader"><a href="https://web.archive.org/web/20150105072053/http://forums.tigsource.com/index.php?topic=25183.msg988702#msg988702">Quote from: dancing_dead on January 27, 2014, 02:11:32 PM</a></div><div class="quote">barebones unity sounds cool, I just hope you can do 2d with that without having to do it in an awkward 3d editor.<br></div><br>What exactly is an &quot;editor&quot;? Dragging and dropping sprites/polygons/objects to the stage? Why would I do that, when I can just place everything with code? Or are you talking about code editors? Why would those be different for 2d/3d? Once again, excuse my ignorance.

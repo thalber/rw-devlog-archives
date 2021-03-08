@@ -1,0 +1,4 @@
+JLJac
+10
+
+<b>Update 92</b><br>A player isn&#039;t instantly dead once caught by a lizard any more, but can be alive a little while when carried. This means that if two players are co-operating you can save your friend from the gap of a lizard with a rock (or a <i>carefully aimed</i> spear). <br><br>Also did a little graphical work.

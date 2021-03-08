@@ -1,0 +1,4 @@
+JLJac
+68
+
+Hehe sorry, clumsy of me! Now it works just fine <img src="https://web.archive.org/web/20150101203245im_/http://forums.tigsource.com/Smileys/derek/smiley.gif" alt="Smiley" border="0"><br>When looking at the code, does the solution look conventional or like the alien makings of a self-taught weirdo? I worry about this a bit, because I don&#039;t want to drift into weird territory if I&#039;m to bring another programmer on later on...

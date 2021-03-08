@@ -1,0 +1,4 @@
+jamesprimate
+95
+
+<div class="quoteheader"><a href="https://web.archive.org/web/20141225201523/http://forums.tigsource.com/index.php?topic=25183.msg1049238#msg1049238">Quote from: JLJac on August 07, 2014, 06:32:22 AM</a></div><div class="quote">An example would be that a dumb green lizard probably shouldn&#039;t be able to be too clever about how you&#039;re able to climb and it&#039;s not. Instead it should assume that you have the same limitations it has, and emulate your ghosts with its own terrain preferences. That way when you climb up and away from the area it&#039;s searching, the proper reaction should be confusion.<br></div><br>classic green lizards!<br><br>very cool visualization. how do you suppose that system scales? it is something light-weight enough to run, say, 15-20 instances each with 15 ghosts?

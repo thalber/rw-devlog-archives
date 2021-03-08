@@ -1,0 +1,4 @@
+JLJac
+76
+
+It seems like a not very elegant solution, is all... Looking at this steep parallax mapping, it looks to me like it&#039;s a fragment shader which basically does a per-pixel raytrace both from the camera to the surface and then from the surface to the light source. Maybe something like that could be done here as well? If they have the time to step back and forth like that on each pixel, what I want to do shouldn&#039;t be impossible either, right?<br><br><a href="https://web.archive.org/web/20150108074812/http://graphics.cs.brown.edu/games/SteepParallax/index.html" target="_blank">http://graphics.cs.brown.edu/games/SteepParallax/index.html</a><br><br>

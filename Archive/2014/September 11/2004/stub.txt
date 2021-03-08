@@ -1,0 +1,4 @@
+JLJac
+100
+
+Just struck me that I could do a very easy compression of the maps by just going tile by tile and only saving them if they are indeed mapped, leaving out the blacked out terrain. Then when I write the data back, I just go by the same order. It seems from my tests that this would get the amount of integers down well below 30% in the level layouts I have going now.<br><br>I could probably do with dijkstra maps that are just tile-by-tile rather than creature specific as well - not AS good, but still an asset to the AI. Then I would not have 15 * 5 maps to save, but just 15 + 5 = 20. <br><br>(15 + 5) * 2000 * 30% = 12 000 integers<br><br>That shouldn&#039;t be a major problem, right?

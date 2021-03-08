@@ -1,0 +1,4 @@
+JLJac
+11
+
+Good to have you here!<br><br><b>Update 99.8.5</b><br>Introduced some effects for when the rain is approachning. At first the music fades out. Then a rain sound slowly starts to fade in. Then the light dissapears, as if the sun is covered by clouds. Then, in the final step, the screen starts to shake. By now the rain sound is a loud roar. One effective way I found to make the rain sound louder without bursting any speakers was to fade out the other sounds as the rain is faded in, so that everything else is muted when the rain is at its loudest.<br><br>Lizards and flies take shelter in their respective holes and hives as the rain is approaching. <br><br>Other things I&#039;ve been doing include enabling effect colors for levels to be either reflective or superflourescent. This means that they have a little aura of blurred light either by themselves or if light is falling on them. 

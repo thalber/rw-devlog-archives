@@ -1,0 +1,4 @@
+JLJac
+66
+
+Yeah? That&#039;s not right?<br>However I found out that just putting the number on the screen with a Futile &quot;label&quot; (text thingie) doesn&#039;t cause the same problem, so now I&#039;ve got something that works <img src="https://web.archive.org/web/20150102024711im_/http://forums.tigsource.com/Smileys/derek/smiley.gif" alt="Smiley" border="0">

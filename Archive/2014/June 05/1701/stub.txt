@@ -1,0 +1,4 @@
+JLJac
+85
+
+Wish I could, but it&#039;s full screen stuff so it&#039;s not very convenient for gifs. I think the best description of what&#039;s going on is &quot;you can exit a room by walking out the edge of it, and then you&#039;ll enter the next room from the opposite edge&quot; - what&#039;s confusing is that the way this is achieved technically is that both the rooms are actually <i>one big room</i>, with two different <i>camera positions</i> between which the camera can switch. <br><br>Gah, a full long day of coding really doesn&#039;t do wonders for your communication skills. Maybe James will drop by and explain what&#039;s going on using human words <img src="https://web.archive.org/web/20141225201517im_/http://forums.tigsource.com/Smileys/derek/smiley.gif" alt="Smiley" border="0">

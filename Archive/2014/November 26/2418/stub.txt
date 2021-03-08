@@ -1,0 +1,4 @@
+JLJac
+120
+
+<b>Update 365</b><br>Not been many gifs lately, so here&#039;s a little bonus. After digging in the lizard AI all day I decided to do something more fun, and implemented this hanging animation for the lower end of vertical poles:<br><br><img src="https://web.archive.org/web/20141211121157im_/http://imgwiz.com/images/2014/11/26/hbxa.gif" alt="" border="0">

@@ -1,0 +1,4 @@
+JLJac
+36
+
+We&#039;re up on IGF! &nbsp;<img src="https://web.archive.org/web/20141229074531im_/http://forums.tigsource.com/Smileys/derek/grin.gif" alt="Grin" border="0"><br><br><b>Update 189</b><br>James just sent me a new batch of sounds, menu sounds specifically, and I&#039;ll start implementing those. Other than that I&#039;ve done a little level editing and tiles since last time.<br><br>Also:<br><img src="https://web.archive.org/web/20141229074531im_/http://oi40.tinypic.com/2ng8wvl.jpg" alt="" border="0"><br>STICK ARRAOUND!<br><br>The white lizards are the ones that change color to blend with the environment, and when they&#039;re hurt they glitch out and blink like that.

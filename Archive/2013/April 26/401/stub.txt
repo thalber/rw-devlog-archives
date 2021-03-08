@@ -1,0 +1,4 @@
+JLJac
+20
+
+Hm... I&#039;ve been pondering on that and think I&#039;ll actually not. I think there&#039;s some interesting graphical contrast between the crazyness of the title script and the strictness of the menu texts. Something like this works well, according to me.<br><br><a href="https://web.archive.org/web/20141223032125/http://oi39.tinypic.com/34xfhol.jpg" target="_blank"><img src="https://web.archive.org/web/20141223032125im_/http://oi39.tinypic.com/34xfhol.jpg" alt="" width="270" height="200" border="0"></a><br><br>The title here is of course not supposed to be &quot;rain world&quot;, but a name of a game type instead.<br><br>EDIT: And this is when I realize that I&#039;ve based my menu layout on a 600x800 canvas while my actual game is 1024x768. Well, I&#039;ll have to scale it I guess. The proportions should be the same.

@@ -1,0 +1,4 @@
+JLJac
+63
+
+I&#039;ll take your two cents! GPU power it is, why miss out on free performance? <br><br>I&#039;m still hesitant to unity though, because I don&#039;t want their pre-defined definitions of what&#039;s an object, what&#039;s an animation, etc. I want to create my object instances myself, and move my sprites around myself with code. I&#039;ve been told that this can be done, but I need a tutorial to get started. Can anyone direct me to something as weird as a unity tutorial that doesnt use unity tools, just pure code? 

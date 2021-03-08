@@ -1,0 +1,4 @@
+JLJac
+27
+
+Yeah, sandbox is a multiplayer game mode. But you can fire it up by yourself as well, just to try something out. Weapon settings are limited to spears on or spears off, if you choose spears off all spears will be replaced by rocks.<br><br><b>Update 154</b><br>Kill indicators:<br><img src="https://web.archive.org/web/20141223032109im_/http://oi40.tinypic.com/14ya7hs.jpg" alt="" border="0"><br><br>It&#039;s the same for lizards, the little cross will be the color of the lizard you offed. This is limited to custom mode, in world mode you won&#039;t see it.

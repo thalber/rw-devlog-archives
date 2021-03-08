@@ -1,0 +1,4 @@
+JLJac
+76
+
+Hm, not really, it&#039;s an either-or situation, because the graphics consist of the 30 layers, and if I&#039;m unable to displace them in the game I need to do it in the level editor, and I can&#039;t have two conflicting displacements or every line in the z-dimension would look jagged :/<br><br>Maybe I can make it happen through some sort of bump mapping-like shader... 

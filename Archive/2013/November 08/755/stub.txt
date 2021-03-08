@@ -1,0 +1,4 @@
+JLJac
+37
+
+It will be an optional main mission, so to speak. The &quot;main story&quot; is just about surviving, so I guess it would technically be a side mission, but it would be the only side mission. <br><br><b>Update 197</b><br>Started working on the pup object. I&#039;m basing it on the player object. This happened:<br><br><img src="https://web.archive.org/web/20141230111424im_/http://oi41.tinypic.com/2vbs8w5.jpg" alt="" border="0"><br><br>&nbsp;<img src="https://web.archive.org/web/20141230111424im_/http://forums.tigsource.com/Smileys/derek/whome.gif" alt="Who, Me?" border="0">

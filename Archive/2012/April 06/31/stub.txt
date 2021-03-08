@@ -1,0 +1,4 @@
+JLJac
+1
+
+A video!<br><a href="https://web.archive.org/web/20201129224152/https://www.youtube.com/watch?v=Jnpocoxuzg0&amp;feature=youtu.be" target="_blank">http://www.youtube.com/watch?v=Jnpocoxuzg0&amp;feature=youtu.be</a><br>It&#039;s a horrible horrible cellphone video, but it shows what I wanted to show... Now you can probably tell where I&#039;m from from my accent <img src="https://web.archive.org/web/20201129224152im_/https://forums.tigsource.com/Smileys/derek/smiley.gif" alt="Smiley" border="0"><br><br>Glad to get something up here that isn&#039;t just another wall of text, hope you&#039;ll find it interesting! If I have any readers left, that is... <br><br>In other news saving level data in a noisy square in an image seems to be working fine, which I&#039;m rather happy about. Soon I&#039;ll move the level drawing code over to the level editor, and then I&#039;m set to start working on the graphics.

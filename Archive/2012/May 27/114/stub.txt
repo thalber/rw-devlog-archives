@@ -1,0 +1,4 @@
+JLJac
+5
+
+<b>Update 47</b><br>More work on the crocs&#039; legs. It still looks more weird than cool, but I hope to be able to improve it. The movement will be somewhat awkward, like it&#039;s hauling itself forward rather than actually running, and will hopefully give it a nice, creepy vibe. Still haven&#039;t solved the slopes thing.

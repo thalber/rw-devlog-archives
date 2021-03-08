@@ -1,0 +1,4 @@
+jamesprimate
+84
+
+nice! well it certainly LOOKS like something that could go in the game.<br><br>re: cosmetic tiles, is this something that would improve ram usage in existing levels as well, say &quot;Colosseum&quot; which has an open top, or is it just for levels larger than 1 screen?

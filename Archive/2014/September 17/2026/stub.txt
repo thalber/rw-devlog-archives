@@ -1,0 +1,4 @@
+JLJac
+101
+
+That would be generating and following a dijkstra map - every tile knows its distance to a fixed origin point. The triangulation is about comparing multiple overlapping dijkstra maps to estimate the distance between <i>any </i>two arbitrary coordinates. This means that I can get an approximation of a dijkstra map for any point with just a few lines of code executed and no memory usage, contrary to executing the tens of thousands of lines of code necessary to generate an actual dijkstra map and save it to memory.

@@ -1,0 +1,4 @@
+JLJac
+14
+
+<b>Update 116</b><br>Poking around with the colors of the lizards. Sometimes I want their colors to change slightly to align with a color in the specific level&#039;s palette. For example, if one level has pink plants in it I want the pink lizards on that level to be <i>that </i>pink, not anything else. This is kind of a hassle in some cases, as some parts of the lizards are constituted of bitmaps loaded from memory, and for those parts the colors can&#039;t be changed from the code. So I&#039;m doing multiple sets of those parts so that everything will be in sync.

@@ -1,0 +1,4 @@
+JLJac
+122
+
+<b>Update 371</b><br><br><img src="https://web.archive.org/web/20141211031309im_/http://imgwiz.com/images/2014/12/05/ktZDH.gif" alt="" border="0"><br><br>Leech land behavior is in now, though very simple. This creature really has no AI, it just works on some very simple rules and has some swarming behavior going on. On land it moves either left or right, hoping to fall back in the water. If it hits a wall it&#039;ll reverse its direction. After a while it&#039;ll dry out and die.<br><br>In the gif you can kind of see how I&#039;m having trouble getting out of the water. This is the main danger of the leeches, they&#039;ll weight you down. The effect gets a bit of a bonus in water, but is also present when you&#039;ve gotten out - jumps are a little weaker, you glide down poles, etc.

@@ -1,0 +1,4 @@
+JLJac
+17
+
+<b>Update 129</b><br>Today I messed a little with keyboard/mouse controls for the menu, and how it&#039;ll know which one is currently in control. When it comes to the point where I start trying to implement joysticks I might do something with that as well. 

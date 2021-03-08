@@ -1,0 +1,4 @@
+jamesprimate
+77
+
+<div class="quoteheader"><a href="https://web.archive.org/web/20141230122801/http://forums.tigsource.com/index.php?topic=25183.msg1019796#msg1019796">Quote from: Gimym JIMBERT on May 05, 2014, 11:14:53 AM</a></div><div class="quote"><br>If you want to know more about virtual texture, there is amplify on unity, they explain the basic and provide a tool. <a href="https://web.archive.org/web/20141230122801/http://amplify.pt/unity/amplify-texture/" target="_blank">http://amplify.pt/unity/amplify-texture/</a><br></div><br>wow this looks like just the ticket

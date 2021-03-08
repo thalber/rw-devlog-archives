@@ -1,0 +1,4 @@
+JLJac
+2
+
+<b>Update 20</b><br><br>Gah, most frustrating day ever... I&#039;ve been struggling with the shadow renderer, and... that&#039;s pretty much it for today. This is what it looks like currently, flaws and all:<br><br><img src="https://web.archive.org/web/20201129232222im_/http://oi41.tinypic.com/1zl7qcz.jpg" alt="" border="0"><br><br>Right now the major problem is that objects don&#039;t self shadow, there&#039;s only cast shadows. The choice is between that and having the objects self-shadow even on the surfaces that should be lit...&nbsp; <img src="https://web.archive.org/web/20201129232222im_/https://forums.tigsource.com/Smileys/derek/tired.gif" alt="Tired" border="0"> I have no idea how to solve this, but will probably come up with something...

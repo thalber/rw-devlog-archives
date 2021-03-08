@@ -1,0 +1,4 @@
+jamesprimate
+93
+
+well also this is sort of long-term thinking, since we should be able to have plenty of non-abstracted creatures hanging around off-screen in the general area too (possibly even for entire regions.) its more about finding some scalable solution for when the world starts to get big and complicated.<br><br>figuring out at what point/distance/etc they become abstracted will depend on a bunch of factors down the line, but for now we need a structure that will work either way.

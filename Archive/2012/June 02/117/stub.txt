@@ -1,0 +1,4 @@
+JLJac
+5
+
+<b>Update 50</b><br>Taking a first look at how I&#039;ll actually implement some graphics for the croc.<br><br><img src="https://web.archive.org/web/20141212170251im_/http://oi50.tinypic.com/27wyb21.jpg" alt="" border="0"><br><br>Not super happy with any of the heads, but hopefully I&#039;m getting there.

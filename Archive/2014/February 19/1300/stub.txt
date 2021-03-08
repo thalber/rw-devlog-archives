@@ -1,0 +1,4 @@
+JLJac
+65
+
+Other, less Futile-specific question: Does anyone know of a good tutorial for making games in c#?<br><br>I&#039;m able to fiddle around and make things do stuff by myself. But I worry that I will drift into weird self-taught unconventional territory with my solutions, which <i>could </i>be bad for optimizing and <i>would </i>be bad if I want to have someone else work with the code later. Remember that I have no formal programming education, everything I&#039;ve learnt is basically trial and error, and I don&#039;t know much about the traditions and customs of professional programmers.<br><br>So if someone knows of an article or something that just outlines the standard go-abouts for making a game loop, using inheritance, having objects interact etc in a C# game, that would be gold! I imagine that this is a pretty separate issue from the decision of what I&#039;ll be using for drawing sprites etc.

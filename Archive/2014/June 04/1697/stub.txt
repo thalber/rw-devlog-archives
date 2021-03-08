@@ -1,0 +1,4 @@
+JLJac
+84
+
+<b>Update 249</b><br>Boring week continues. Today I made the light editor work with the new variable level sizes, and also the light rendering, unless I&#039;m missing something. However I managed to break the loading/saving of light bitmaps I&#039;ve been attaching to level editor projects in order to be able to paint where each level should have light and shadow. I&#039;m debugging that now. <br><br>I&#039;m sorry about this continuous all time low excitement-wise, but the variable level size thing is a big fat chunk of work that is absolutely crucial to making this game work - it has to be done, so I might as well just power through it. I hope to have something to actually show you soon, so hang tight. 

@@ -1,0 +1,4 @@
+JLJac
+63
+
+So basically you get that stuff for free, because it&#039;s in the gpu and the gpu is made to run like, Crysis? Fair enough <img src="https://web.archive.org/web/20200831060711im_/https://forums.tigsource.com/Smileys/derek/smiley.gif" alt="Smiley" border="0"> And this is the case even if I have hundreds of hundreds of sprites?<br><br><div class="quoteheader"><a href="https://web.archive.org/web/20200831060711/https://forums.tigsource.com/index.php?topic=25183.msg995469#msg995469">Quote from: Juan Raigada on February 14, 2014, 09:15:56 AM</a></div><div class="quote">The bottleneck with CPU (in lower end systems, mostly, but very relevant to mobile) is in the number of drawcalls. That&#039;s why you need a manager. Once the geometry is sent, you are right that it&#039;s very efficient.<br></div>What is a drawcall and a manager?

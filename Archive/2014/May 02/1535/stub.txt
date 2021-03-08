@@ -1,0 +1,4 @@
+JLJac
+76
+
+&nbsp; <img src="https://web.archive.org/web/20150108074812im_/http://forums.tigsource.com/Smileys/derek/cheesy.gif" alt="Cheesy" border="0"> hahaha ok you guys are right, I&#039;ve gone a bit overboard with this. I had a very particular vision, and an idea of how to make that happen, and when it didnt work I got a bit obsessed with making it work. I&#039;ll just look into other options, such as pre-rendering a few screen positions and switching between them with hard cuts. Don&#039;t worry, I&#039;ve not become crazy obsessed with shaders and I won&#039;t mess up the game hehe <img src="https://web.archive.org/web/20150108074812im_/http://forums.tigsource.com/Smileys/derek/tongue.gif" alt="Tongue" border="0"> 

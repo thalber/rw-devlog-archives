@@ -1,0 +1,4 @@
+JLJac
+238
+
+<div class="quoteheader"><a href="https://web.archive.org/web/20151013014157/http://forums.tigsource.com/index.php?topic=25183.msg1186278#msg1186278">Quote from: Saijin_Naib on October 05, 2015, 01:49:48 pm</a></div><div class="quote">Does your destruction gradient also apply texture overlays to simulate wear/tear/destruction, or is it mainly concerned with positioning and edge effects?<br></div><br>It&#039;s separate - we already have several erosion effect in place. In the example I made it so that there was most erosion in the same place as where the tiles are the most displaced as that seems like what would make sense in most cases. I wanted to de-couple them to give James that little extra bit of control though!<br><br><b>Update 486</b><br><br>Starting on save files. Today I started out in one region, moved to another and got into a shelter, and then was spawned in that region instead. Milestone! 

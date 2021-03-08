@@ -1,0 +1,4 @@
+JLJac
+113
+
+Here&#039;s how I imagine you&#039;re supposed to work with the water - quick in quick out operations taking advantage of the physics and controls, and drowning won&#039;t be a problem.<br><br><img src="https://web.archive.org/web/20141219152429im_/http://imgwiz.com/images/2014/10/24/jvlGx.gif" alt="" border="0"><br><br>I should really stop swimming around and get to work on making those shaders function <img src="https://web.archive.org/web/20141219152429im_/http://forums.tigsource.com/Smileys/derek/whome.gif" alt="Who, Me?" border="0">

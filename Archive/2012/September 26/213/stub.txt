@@ -1,0 +1,4 @@
+JLJac
+10
+
+<b>Update 91</b><br>The more intelligent lizards now act more carefully around a player with a spear.<br><br>The solution I found was that a spear carrying player is attacked from above rather than from the side. Instead of climbing straight at you the lizard will climb upwards until it&#039;s in a suitable position above you, from where it will attack.

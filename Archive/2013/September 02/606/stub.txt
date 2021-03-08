@@ -1,0 +1,4 @@
+JLJac
+30
+
+Hehehe it makes you smell smells!? That&#039;s awesome, especially since the smells seem to be just right :D<br><br><br><b>Update 166</b><br>Complete makeover of the world map. It&#039;s now 7*8 screens big, and contains 3 different save spots...<br><br><img src="https://web.archive.org/web/20141225164327im_/http://oi42.tinypic.com/sfw6rn.jpg" alt="" border="0"><br><br>I&#039;m never finishing this thing am I?&nbsp; <img src="https://web.archive.org/web/20141225164327im_/http://forums.tigsource.com/Smileys/derek/tired.gif" alt="Tired" border="0"><br><br>EDIT: New world seems to work. A few screens make the game crash, and there&#039;s one that makes it lag, but over all the structure seems solid enough. Now I need to make a major re-write for the &quot;return to base&quot; functionality, in order to make it work with multiple shelters.

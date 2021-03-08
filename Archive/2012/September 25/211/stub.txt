@@ -1,0 +1,4 @@
+JLJac
+10
+
+<b>Update 89</b><br>Did a little work on the yellow lizards, the ones working in teams. They actually work now, and do a little bit of surrounding the player.<br><br>I also made lizards able to see a thrown object (rock or spear) and calculate from where it might have been thrown. The calculation isn&#039;t perfect, so it&#039;s possible to fool them by throwing a rock in front of their faces and hope that they will go looking for you somewhere behind where you were actually at while throwing.
