@@ -1,0 +1,4 @@
+jamesprimate
+308
+
+Completely agreed! I&#039;d like to have that first pop-up be something like &quot;Second chance?&quot; or &quot;Can you escape?&quot;, etc., until you are actually dead. Anyway, its on the list for the first update. We&#039;d have changed it before launch, but now that all the text is localized in 7 different languages we can only really do text changes in larger batches.<br>

@@ -1,0 +1,4 @@
+jamesprimate
+273
+
+currently the rain cycle is semi-randomized (on a bell curve i think?) between 600-800 seconds, so 7ish to 13ish minute range. seems to work well! the distances between the shelters / region gates / food sources etc have been laid out with this general range in mind, but we&#039;ll probably tighten it up further as we test.<br><br>another important mechanic point thats related to all this is that the new OOOO|OOO feeding system, where 4ish food items is required to survive a rain cycle, but any additional food up to 3 is held over the next cycle. what this does is make is so that if you want to explore without taking the extra time to hunt down a bat nest you have to have to fill up on food the previous round, effectively stockpiling it, which heightens the risk because you *really* dont want to die and lose that food once youve already spent a cycle prepping. its fun and stressful!

@@ -1,0 +1,4 @@
+jamesprimate
+267
+
+Todo for initial release: audio and music, some narrative stuff, some set piece, some art stuff, a few more creatures, a few more systems and some general &quot;getting it all to work nicely&quot; stuff. Sounds like a lot, but comparatively speaking we are on the home stretch and feeling very pretty dang good about things!&nbsp; <img src="https://web.archive.org/web/20210308165527im_/https://forums.tigsource.com/Smileys/derek/toast-r.gif" alt="Toast Right" border="0">

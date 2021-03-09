@@ -1,0 +1,4 @@
+JLJac
+176
+
+Yeah not quiiiite done, I need to add yet another type of prop, which will be used for more organic shapes. But we&#039;re totally getting there! Then I&#039;m making a few art assets when I&#039;m at it (new garbage tiles!) and after that working on the level editor can hopefully be put behind us. Except I&#039;ll have to return now and then to add assets. Haha. Anyway, it&#039;s Sunday so I&#039;m taking a little time off, see ya soon!

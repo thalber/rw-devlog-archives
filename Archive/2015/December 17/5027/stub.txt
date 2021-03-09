@@ -1,0 +1,4 @@
+jamesprimate
+251
+
+this is definitely a cool idea. there are some other odds and end that will very likely be going in, such as shelter locations icons, food sources, and maybe locations of deaths. So i wonder if that stuff could be done as an &quot;erodible&quot; layer of memory? We&#039;ll ponder on how these all might be done when we return to map land after the region polish is finished.

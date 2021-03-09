@@ -1,0 +1,4 @@
+JLJac
+259
+
+Hm, seemed to have happened when I was unloading a texture for some odd reason. The only thing I can imagine is that the texture&#039;s appointed memory location was slightly incorrect and overlapped a little bit with one of the loaded audio files in one spot or another - but that&#039;s pure speculation&nbsp; <img src="https://web.archive.org/web/20210309211642im_/https://forums.tigsource.com/Smileys/derek/huh.gif" alt="Huh?" border="0"> Anyway, textures loading and unloading is within my realm so now I can find a workaround!&nbsp; <img src="https://web.archive.org/web/20210309211642im_/https://forums.tigsource.com/Smileys/derek/hand-thumbsup-r.gif" alt="Hand Thumbs Up Right" border="0">

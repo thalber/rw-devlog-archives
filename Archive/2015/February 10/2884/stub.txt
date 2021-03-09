@@ -1,0 +1,4 @@
+jamesprimate
+144
+
+^ all the pathfinding stuff is talked about super in-depth earlier in the devlog. take a look through!

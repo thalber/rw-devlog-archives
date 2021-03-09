@@ -1,0 +1,4 @@
+JLJac
+246
+
+Ah, exactly the sort of insight I was looking for! Thank you so much &nbsp;<img src="https://web.archive.org/web/20210308163646im_/https://forums.tigsource.com/Smileys/derek/hand-thumbsup-l.gif" alt="Hand Thumbs Up Left" border="0"> <img src="https://web.archive.org/web/20210308163646im_/https://forums.tigsource.com/Smileys/derek/smiley.gif" alt="Smiley" border="0"> <img src="https://web.archive.org/web/20210308163646im_/https://forums.tigsource.com/Smileys/derek/hand-thumbsup-r.gif" alt="Hand Thumbs Up Right" border="0"><br><br>That Dijkstra article is cool! I assume this is the same guy as in &quot;Dijkstra Maps&quot; - the pathfinding algorithm? 

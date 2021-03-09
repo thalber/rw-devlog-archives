@@ -1,0 +1,4 @@
+JLJac
+175
+
+It is possible to batch render, but it still takes an awful amount of time. All the rooms would probably require both of our computers working hard for a day or so, during which we&#039;d be limited in the work we could do. But yeah, totally possible! Just to be avoided if possible. Also James has an aversion for the batch renderer because he suspects it doesn&#039;t spit out the room pixel-perfectly the same, but this time around I&#039;ll do some empirical science on that and if it&#039;s actually the case I&#039;ll correct it!

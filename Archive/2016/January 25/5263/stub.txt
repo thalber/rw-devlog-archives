@@ -1,0 +1,4 @@
+JLJac
+263
+
+Yeah, if I just return the grabtexture value in the shader I see a smooth radial gradient from black to red, like supposed to. Same with the 2D lookup table.<br><br>This here:<br><br><img src="https://web.archive.org/web/20210308165353im_/https://giant.gfycat.com/FittingCleanArgentineruddyduck.gif" alt="" border="0"><br><br>is the result of a tuned approximation. I hooked up the base and the exponent of the displacement values to the mouse coordinates and moved around till I got the best result, then copied those values. It will have to do for now. Unless someone comes up with an incredible revelation I think I have to move on now, we send builds to Adult Swim at the end of each month and I still have a couple of things on my to-do list. Thank you so much for all the help, guys! Hope we can find a mathematically perfect solution for it some time! 

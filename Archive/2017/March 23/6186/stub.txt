@@ -1,0 +1,4 @@
+jamesprimate
+309
+
+Thank you!<br><br>The PC/PS4 versions are identical, though depending on your PC specs the PS4 version might run smoother in certain locations. The team that helped us with the port, Carbon, did a fantastic job of optimization on some of the larger / more chaotic areas where there might be hundreds of AIs, events, audio etc all burning up CPU cycles. It purrs at a smooth 60fps in all circumstances!<br><br>One point that might be worth considering is that after the initial release we are not sure how things like multiplayer / co-op / updates will be handled. PC we have a lot of control over, so its possible that PS4 might wind up with changed versions to suit the platform, and then possibly later than the PC updates. But tbh we dont actually know that yet, this is pure speculation!

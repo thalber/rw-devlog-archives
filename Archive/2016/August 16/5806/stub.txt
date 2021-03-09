@@ -1,0 +1,4 @@
+jamesprimate
+290
+
+basically! i know it <i>SEEMS</i> like i have murdered Joar and completely taken over the project, i assure you thats not the case. hes just trying to keep distractions down to a bare minimum for this last &quot;sprint&quot; / deathmarch. <br><br>that said, it cant have been pleasant though as the past few weeks most of the communication has just been bug reports and various re-phrasings of &quot;WE NEED THIS DONE IN 2HRS BEFORE THE NEXT TEST BUILD LAUNCHES&quot; etc. there is going to be some PTSD 

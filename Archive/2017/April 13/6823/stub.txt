@@ -1,0 +1,4 @@
+JLJac
+341
+
+Yep, it needs DX11 or it&#039;s all purple! If your laptop doesn&#039;t have DX11, that might be it?

@@ -1,0 +1,4 @@
+JLJac
+192
+
+Further somewhat unexciting stuff - the &quot;effects&quot; framework is working with inheritance and templates and all of that, now I&#039;m moving on to palette fades, a functionality we&#039;ve been talking about for a loooooong time in which James will be able to make certain rooms or screens have a blend between two palettes, to make soft transitions between regions and sub-regions. Seems to be going well enough! I think I will be butchering the old palette fade code though as that will get in the way, and create a new two-dimensional system where the palette status exists as a coordinate between a palette A and a palette B, and the &quot;lit&quot; sub-palette and the &quot;shaded&quot; sub-palette that it switches to as the rain gets closer. Sounds more complicated than I expect it to be, by tomorrow afternoon I think I&#039;ll have this down unless I run into some major unexpected trouble. 

@@ -1,0 +1,4 @@
+JLJac
+220
+
+Nah, they generally use textures. I&#039;ve been looking but couldn&#039;t find it <img src="https://web.archive.org/web/20210308162138im_/https://forums.tigsource.com/Smileys/derek/sad.gif" alt="Sad" border="0"> Can&#039;t remember if it was some tesselation technique they used... Something in my memory is about fractals, but that might just be because I don&#039;t know how tesselation works haha!<br><br>Aside, sorry about the slow devlogging pace lately! James hit me with a put together version of the new region, and now I&#039;m working on getting the Rain Deer to path properly between rooms, and as always when doing this inter-room movement it&#039;s a total mess and I have to spend basically a day bug hunting. After this one there will only be one more creature like that though, the rest will use the trusty old shortcut system! In other news the region is AMAZING, definitely the best one yet as for basically everything! Really stoked about this one!

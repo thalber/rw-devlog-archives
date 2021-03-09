@@ -1,0 +1,4 @@
+JLJac
+205
+
+A related question: is it allowed to buy a unity asset, but then not use it in its entirety but instead pick it apart to get the pieces you want? Or just look at how it works and partly re-create the same solution?

@@ -1,0 +1,4 @@
+JLJac
+141
+
+<b>Update 390</b><br><br>Figured it out, I think!<br><br><img src="https://web.archive.org/web/20210309172748im_/http://imgwiz.com/images/2015/01/30/hbVu9.gif" alt="" border="0"><br><br>Really happy to have those visibility maps. It will add a lot of character to be able to define whether a creature lurks in the shadows, or overlooks its territory from above.<br><br>Right now the algorithm gives the top side of high up platforms low visibility, which makes sense if you only consider visibility from other tiles inside the room. The vulture hunts from above and outside the level though, and it does seem a little weird for creatures to hide on top of stuff even if there aren&#039;t vultures around - the AI behaviors should perhaps act as if there was actually a world outside of the tiny little enclosed room as well. So I might add some kind of from above bias to get rid of that. I&#039;ll just see what the behaviors actually look like first.

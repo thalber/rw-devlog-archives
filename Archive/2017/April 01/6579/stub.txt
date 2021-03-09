@@ -1,0 +1,4 @@
+jamesprimate
+328
+
+<div class="quoteheader"><a href="https://web.archive.org/web/20210308173120/https://forums.tigsource.com/index.php?PHPSESSID=a6atems9gojad54m2umftmane4&amp;topic=25183.msg1326554#msg1326554">Quote from: Christian on April 01, 2017, 08:13:31 PM</a></div><div class="quote"><br>No, I&#039;m on PS4. It seemed totally random. Twice time it happened in the room between Industrial and Garbage Wastes, then in the gate area as the gates were closing (lost karma on that crash), and then the other threee crashes happened at random times while in Garbage Wastes<br><br></div><br><br>AHHHH, yeah we&#039;re getting a lot of random crash reports on PS4. Which is weird and disappointing because there is a separate, professional team thats handling the PS4 code, so we thought that at least that platform would be fairly rock-solid. I&#039;ll make sure they get this info and fix.

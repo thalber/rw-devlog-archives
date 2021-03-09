@@ -1,0 +1,4 @@
+JLJac
+217
+
+@Chromanoid, Oh that&#039;s a nice idea! I&#039;ll think about possible implementations!<br><br>@Teod, to me it seems to fit pretty well! Maybe I&#039;ll tone down the general rotation and keep it to a brief moment when it&#039;s actually turning around, but right now I&#039;m just really happy to see it working so I&#039;d like to look at it for a bit longer ~<br><br>Some more messing around and I found out that a bit of color difference goes a long way in conveying which horn is which, and also enables you to see that the two antlers are slightly different:<br><br><img src="https://web.archive.org/web/20210308161838im_/https://giant.gfycat.com/EllipticalGregariousGrizzlybear.gif" alt="" border="0">

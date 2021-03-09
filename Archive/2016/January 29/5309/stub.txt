@@ -1,0 +1,4 @@
+JLJac
+265
+
+As for a &quot;separate tutorial mode&quot;, we have a sandbox mode planned, which will basically be running on the engine of the multiplayer but where you can throw in one player, two players, a player and some creatures you&#039;ve discovered, or just some creatures you&#039;ve discovered and no players at all. So that would both allow for practicing moves in an empty room, practicing a specific creature interaction, or observing interactions between non-slugcat creatures and learning from that.

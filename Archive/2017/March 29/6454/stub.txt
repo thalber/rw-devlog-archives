@@ -1,0 +1,4 @@
+JLJac
+322
+
+Hi everyone! Thanks so much for taking the time to give feedback. Right now we&#039;re putting together lists and working out the details on how to adapt to the feedback. We&#039;re not aiming to make the game easy (maybe a little easier here and there&nbsp; <img src="https://web.archive.org/web/20210308172638im_/https://forums.tigsource.com/Smileys/derek/smiley.gif" alt="Smiley" border="0">) but to sort out some of the kinks that have come up as frustrating. I&#039;ve already addressed a few commonly mentioned issues. For now the focus is on stuff that&#039;s pretty small for me as a programmer but with big impact on the experience, and I&#039;m making my way through the short-term list of programming stuff at a brisk pace right now. <br><br>Apart from the short-term list, we have more long-term stuff, but want to get the most pressing things done first. Long story short, we hear you and are at the task! Updates as things move on!

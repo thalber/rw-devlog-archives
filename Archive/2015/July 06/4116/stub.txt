@@ -1,0 +1,4 @@
+JLJac
+205
+
+Thanks Christian! <img src="https://web.archive.org/web/20210309162716im_/https://forums.tigsource.com/Smileys/derek/grin.gif" alt="Grin" border="0"> A perfect summary of what we&#039;re striving for!<br><br>On the subject of releasing a build, we&#039;re actually at a pretty bad stopping point right now - lots of stuff that&#039;s half-implemented... But I&#039;ll talk to James about it, we&#039;re definitely excited to show you guys the progress when we get to a spot where we can do so!

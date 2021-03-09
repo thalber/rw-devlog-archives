@@ -1,0 +1,4 @@
+jamesprimate
+172
+
+Second player support hasn&#039;t really been added yet, just spawning the 2nd Slugcat for testing purposes. It&#039;s completely &quot;broken&quot; as a game mode for now. If everything goes to plan, the next build will be more multiplayer focused, so that would probably happen then. But yes, obviously we plan for all players to be able to use gamepads. Still a way to go between now and then though.<br><br>2 player is pretty fun though right?? Even totally broken&nbsp; <img src="https://web.archive.org/web/20210308154128im_/https://forums.tigsource.com/Smileys/derek/gomez.gif" alt="Gomez" border="0"> <img src="https://web.archive.org/web/20210308154128im_/https://forums.tigsource.com/Smileys/derek/gomez.gif" alt="Gomez" border="0">

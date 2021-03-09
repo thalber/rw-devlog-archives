@@ -1,0 +1,4 @@
+jamesprimate
+157
+
+<div class="quoteheader"><a href="https://web.archive.org/web/20210309161756/https://forums.tigsource.com/index.php?PHPSESSID=9kh23o2dkgjialfbe90f36ifn6&amp;topic=25183.msg1117935#msg1117935">Quote from: fall_ark on March 06, 2015, 08:04:49 PM</a></div><div class="quote">Rain World maps are probably structually too complex to force the player to have limited line of sight, but maybe inside pipe = fog of war over other creatures would be a nice compromise?<br></div><br>we still have one game mechanic we&#039;d like to explore that hasn&#039;t even begun to be implemented yet, and that&#039;s &quot;darkness&quot;. the regions seen so far are all above ground or near surface subterranean where light is plentiful, but as you go much deeper into the ground the concept is similar to as you describe: a tighter, maze-like gameplay with limited visibility and lighting. BUT we haven&#039;t even tried it yet, so we&#039;ll see how it goes.

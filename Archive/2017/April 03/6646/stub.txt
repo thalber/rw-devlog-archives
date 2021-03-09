@@ -1,0 +1,4 @@
+jamesprimate
+332
+
+<div class="quoteheader"><a href="https://web.archive.org/web/20210309212146/https://forums.tigsource.com/index.php?PHPSESSID=04f4alhsh29tsmmuia54fhd3i3&amp;topic=25183.msg1326873#msg1326873">Quote from: Crispy75 on April 03, 2017, 04:52:54 AM</a></div><div class="quote">Out-of-bounds is possible in this room of Shaded Citadel:<br><br><img src="https://web.archive.org/web/20210309212146im_/https://i.imgur.com/jNBfrbJ.png?1" alt="" border="0"><br><br>(green dot where I put a spear, green arrow leads to nowhere)<br></div><br>Good catch! Thank you!

@@ -1,0 +1,4 @@
+JLJac
+326
+
+Try taking a quick look at the map!<br><br>Hey guys, if any of you are experiencing corrupt saves or crash/freeze bugs, feel free to PM the save file to me, it would be super helpful! Save files are in RainWorld/UserData and just named &quot;sav.txt&quot;

@@ -1,0 +1,4 @@
+jamesprimate
+247
+
+We have one in the devtools already that uses realtime data from the actual map files, but it&#039;ll probably take some creative effort to make it work in the context of slugcat land in a way that doesn&#039;t seem super HUD awkward. We have some ideas though! since the mechanism is literally already in there, I&#039;m pretty confident we can make it happen 

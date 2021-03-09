@@ -1,0 +1,4 @@
+JLJac
+252
+
+Hope you all have enjoyed your holiday celebrations! <br><br><b>Update 499.5</b><br><br>Scavenger coming along. <br><br><img src="https://web.archive.org/web/20210309211458im_/http://imgwiz.com/images/2015/12/25/IhvPU.gif" alt="" border="0"><br><br>Color etc still up for change, and loooots of details still missing - hands for example. <br><br><img src="https://web.archive.org/web/20210309211458im_/http://imgwiz.com/images/2015/12/25/ixJpC.png" alt="" border="0"><br><br>Antler/ear head appendages are procedurally generated so each individual will be recognizable. The upcoming cosmetic stuff will take that even further - I want to aim for at least the amount of individual customization that the lizards currently enjoy.<br><br>Still a few animations that need to be implemented, such as climbing, swimming. 

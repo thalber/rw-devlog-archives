@@ -1,0 +1,4 @@
+JLJac
+256
+
+Thanks! They&#039;ll generally appear in lose packs, distributed across two screens or so. They gravitate a bit towards the pack leader, but also don&#039;t want to be too much up in each others&#039; grill. Their idle behavior saves a log of the last 10 positions they&#039;ve been rummaging at and avoids those when picking future spots, causing them to sort of slowly sweep over a large field room like this one. Brave individuals tend to explore more, whereas more nervous ones prefer to stick to the pack. 

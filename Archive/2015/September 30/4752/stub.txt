@@ -1,0 +1,4 @@
+JLJac
+237
+
+<b>Update 484</b><br><br>Making tiles! The next region is going to be really mazy. With a few lizards in there I think we&#039;ll be able to squeeze out a decent pac-man clone from the engine!<br><br><img src="https://web.archive.org/web/20210309163406im_/http://imgwiz.com/images/2015/09/30/I27Aw.png" alt="" border="0"><br><br>The slanted walls of the tunnels enables you to see the creatures in them, even at the edges of the screen where the slight depth effect will otherwise tilt the geometry so the tunnel becomes obscured. 

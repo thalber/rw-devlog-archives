@@ -1,0 +1,4 @@
+JLJac
+168
+
+Yup it&#039;s definitely not all the way there yet! But it&#039;s a start for getting a better picture of what the area might look like. I agree that the diagonal rays are a bit too jarring... I should probably try a square blur - though that&#039;d be twice as expensive. I could make the blur radius smaller though to save some cycles, which is perhaps not a bad thing actually.<br><br><img src="https://web.archive.org/web/20210309162242im_/http://imgwiz.com/images/2015/03/26/ljKud.gif" alt="" border="0">

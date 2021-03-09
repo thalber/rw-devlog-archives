@@ -1,0 +1,4 @@
+JLJac
+263
+
+One-dimensional lookup texture apparently not a good idea. Resolution doesn&#039;t work out, giving these jagged lines, even at 10 000px wide.<br><br><img src="https://web.archive.org/web/20210308165353im_/http://imgwiz.com/images/2016/01/25/iH61k.png" alt="" border="0"><br><br>Remains full sized 2D lookup texture, which is gonna be like 40mb in RAM &nbsp;<img src="https://web.archive.org/web/20210308165353im_/https://forums.tigsource.com/Smileys/derek/tired.gif" alt="Tired" border="0"><br><br>Edit: Full size 1366x768px texture gives the same artifacts. I&#039;m gonna go back to using some simple maths and trying to make an estimate that places the markers as good as I can tune them. 

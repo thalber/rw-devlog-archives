@@ -1,0 +1,4 @@
+JLJac
+195
+
+<b>Update 434</b><br><br>I got tired of water in dark areas just being a black blob, so I got started on some darkness+water+light source interactions. First, a surface reflection:<br><br><img src="https://web.archive.org/web/20210308160438im_/http://imgwiz.com/images/2015/06/07/IpPXu.gif" alt="" border="0"><br><br>And an underwater light source shader. This one is probably gonna get its fair share of tuning, just like the ordinary light source shader already has.<br><br><img src="https://web.archive.org/web/20210308160438im_/http://imgwiz.com/images/2015/06/07/PlGw.gif" alt="" border="0"><br><br>I&#039;m digging the &quot;beaming&quot; quality of it, but it&#039;s a little too blurry and fuzzy to go with RW&#039;s art style, that will have to be straightened up somehow. But a good start :D<br><br>Yay shaders!

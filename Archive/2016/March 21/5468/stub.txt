@@ -1,0 +1,4 @@
+JLJac
+273
+
+Pause feature confirmed!<br><br>You&#039;ll have to ask James actually, he&#039;s the one tuning cycle times, placing shelters and food etc. On my end I&#039;ve played with cycles being only a few minutes, which I&#039;ve found sort of nice as it cuts the game up into little bite sized sections. I think we&#039;ve always thought of exploration and observation as something that happens <i>as </i>you&#039;re going for food, rather than outside of it, because we want the player to always have a clear goal rather than several minutes to just linger around... All of it is up for discussion/tuning though.<br><br>Another thing is that Rain World due to its random nature will always feature unfair random deaths, even if we try to minimize it. If the cycles are relatively short (making saves more dense) there&#039;s some damage control on that frustration. 

@@ -1,0 +1,4 @@
+JLJac
+145
+
+<b>Update 397</b><br><br>Shelter gates!<br><br><img src="https://web.archive.org/web/20210309173009im_/http://imgwiz.com/images/2015/02/16/HwTCm.gif" alt="" border="0"><br><br>This animation has been sort of insane to get working, but by now I&#039;m pretty happy with it. The segments move in at intervals that&#039;s a bit randomized, to give it some variety as you&#039;ll see this one a lot.<br><br>Futile is not rendering my pixel art pixel-perfectly, which annoys me. At the edges of the sprites it picks up color from the 0% alpha pixels outside of the sprite, and blends that in with the color that&#039;s supposed to be visible. Also the sprite edges flicker when the sprites move. Oh well, PAX is coming up and I better keep moving. I&#039;m sure I&#039;ll be able to sort it out later.

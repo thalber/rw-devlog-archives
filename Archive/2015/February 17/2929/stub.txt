@@ -1,0 +1,4 @@
+jamesprimate
+146
+
+futile is a code based 2D framework for unity. basically it lets Joar skip all the module &quot;click and drag&quot; stuff / editor limitations and work directly with C#, but still use the unity platform for its strengths: publishing and compatibility, etc. its definitely pretty rough, and a lot of stuff has to be made from scratch (like, even the audio engine needed significant expansion to be usable), but works so far!<br><br><a href="https://web.archive.org/web/20210309172954/https://github.com/MattRix/Futile" target="_blank">https://github.com/MattRix/Futile</a>

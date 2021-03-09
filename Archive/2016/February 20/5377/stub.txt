@@ -1,0 +1,4 @@
+jamesprimate
+268
+
+splash wouldnt be centered! its spatially attached to the players position in the stereo field. also individual water splash droplets have their own audio triggers, with doppler and a few step velocity, so you might be hearing that stuff flailing about as well. ALSO this was before Joar re-attached the low-pass filter, so we miss that cool underwater effect, but thats back in now. <br><br>what were doing is a *little* weird for sure. a bit of a hybrid system between platformer types where diegetic audio is heavily omni, and the fully spatial audio of 3d games, plus then were throwing in all sorts of strange programmatic stuff like the doppler, randomized pitch/etc functions. its very much like the rest of the game in that regard, lol! but in the context of moving through rooms and regions it makes sense 

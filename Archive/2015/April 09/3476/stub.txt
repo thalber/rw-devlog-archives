@@ -1,0 +1,4 @@
+jamesprimate
+173
+
+as much as i love the concept, the diagetic UI question always seems to create significantly more problems than it solves. Just for the sake of testing, Joar did a UI mockup of something simple and abstract, which really fits the aesthetic style and conveys all the game info pretty much flawlessly at a glance (even for multiplayer!) <br><br>I think were going to hold out on it for a bit just in case a seamless in-game solution falls in our laps, but its nice to have a solid backup plan all ready to go&nbsp; <img src="https://web.archive.org/web/20210308154352im_/https://forums.tigsource.com/Smileys/derek/hand-thumbsup-r.gif" alt="Hand Thumbs Up Right" border="0">

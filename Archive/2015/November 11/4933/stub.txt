@@ -1,0 +1,4 @@
+JLJac
+246
+
+Thank you thank you! Hang in there guys!<br><br>Programming purity question:<br><br>With an integer rect struct, should the upper digits be thought of as included or excluded?<br><br><img src="https://web.archive.org/web/20210308163646im_/http://imgwiz.com/images/2015/11/11/SOd.png" alt="" border="0"><br><br>It&#039;s a silly question I know, but I just can&#039;t figure something out that feels right. The inclusive one makes sense because, well, look at it, but what doesn&#039;t make sense is that if I ask for its width I get 7-4=3 tiles, where the width very obviously is 4 if you look at it.<br><br>I&#039;m gravitating towards the inclusive version and then just slapping on a +1 on the width and height accessors, but that feels horribly unpure to me as the same logic could hardly be applied to a float rect. Should I just accept that integer logic and float logic are different here?

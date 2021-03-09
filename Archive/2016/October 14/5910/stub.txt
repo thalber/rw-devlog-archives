@@ -1,0 +1,4 @@
+JLJac
+295
+
+The UI and graphic design is generally pretty terrible hahaha! I hope to be able to go back to it and fix it up a little bit at some point for sure. The game only has like, 3 menu screens though, and in the standard case your only interaction with it will be hitting &quot;continue&quot; in the main menu, so it&#039;s a super minor part of the game. The button is big because it&#039;s a safety button - you can&#039;t click it but need to hold it and a white semi-circle will fill in gradually. 

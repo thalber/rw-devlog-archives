@@ -1,0 +1,4 @@
+jamesprimate
+175
+
+had full sound/music/sfx in the lingo build, so everything is ready to go. just hadn&#039;t bothered putting it in the new version yet. the futile framework joar is using doesnt use unity&#039;s sound engine, and futile&#039;s native sound engine BLOWS, so we had a friend working on a custom sound engine code / extensions. It just came out of the oven a few weeks ago actually. Big shoutout to Garrett from Neon Deity Games for all the help!&nbsp; <img src="https://web.archive.org/web/20210309173059im_/https://forums.tigsource.com/Smileys/derek/toast.gif" alt="Beer!" border="0">

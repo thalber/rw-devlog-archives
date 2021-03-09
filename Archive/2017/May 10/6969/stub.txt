@@ -1,0 +1,4 @@
+JLJac
+348
+
+The tricky thing with coop is the screen - as we don&#039;t have scrolling, we can&#039;t even do the old hack &quot;camera hovers at the point between the players, so you better stay somewhat close&quot; ~ instead we have the screen-by-screen thing, which if you think about it is really difficult to get to work with two players. Actual split screen would be the only Real Solution, and I&#039;ve been experimenting with that, but that in turn creates a bunch of difficulties with the shaders. So idk ~ we definitely want co-op, it seems like it could be really awesome, but it takes some serious thinking to come up with a good solution! We&#039;ll start with the one-screen arenas, those are a bunch of fun in themselves <img src="https://web.archive.org/web/20210308174614im_/https://forums.tigsource.com/Smileys/derek/smiley.gif" alt="Smiley" border="0">

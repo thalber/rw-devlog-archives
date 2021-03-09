@@ -1,0 +1,4 @@
+JLJac
+259
+
+Anyone knows anything about a &quot;ud-&gt;stream-&gt;GetAudioClip()&quot; error when trying to call AudioSource.Play(); ?<br><br>Strangely the sounds still seem to play, I just get that weird message spammed in my console. I can&#039;t really debug it because it seems to happen in Unity&#039;s guts rather than in my code - attaching monodevelop and hoping for a break on error doesn&#039;t work, and I can&#039;t try{} catch{} it either.

@@ -1,0 +1,4 @@
+JLJac
+274
+
+Ah yeah of course, I&#039;m being silly - in my setup I used a scale for distance that is basically &quot;the distance value is what I divide the size by&quot; (so a logarithmic scale, maybe?)&nbsp; because I thought that would be easier, haha ~ And of course I run into trouble because of it. <br><br>Thanks for the curves, will try! Can&#039;t seem to find the hard maths behind them though - are they just different bezier curves? 

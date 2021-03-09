@@ -1,0 +1,4 @@
+jamesprimate
+240
+
+ah, easy to misunderstand! the region we are currently working on is the last region that the player will encounter, hence &quot;the final region&quot;. But there is one more region for us to make after this one. We did them in this order for some technical reasons, as the other region will have some important visuals-heavy set-pieces, so we want to use this region as practice before getting there.<br><br>so yes, even more content! we are content crazy!

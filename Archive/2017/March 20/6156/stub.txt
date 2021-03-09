@@ -1,0 +1,4 @@
+jamesprimate
+307
+
+Local multiplayer yes. Online multiplayer NO WAY (unfortunately). Given that all of the creatures in the world exist perpetually, the .net code for online multi would be MADNESS. Like MMO-scale. So unless blizzard calls us up, there&#039;s just no way we&#039;ll have resources or knowledge base to pull something like that off.

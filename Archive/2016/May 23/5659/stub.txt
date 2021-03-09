@@ -1,0 +1,4 @@
+jamesprimate
+282
+
+shockingly little tbh! <img src="https://web.archive.org/web/20210308170252im_/https://forums.tigsource.com/Smileys/derek/shocked.gif" alt="Shocked" border="0"> we have some insane deadline that were trying to meet right now, but its mostly testing and bug-hunts and touch-up stuff, trying to get the experience right.<br><br>the past few weeks have been wild though! i find it hard to find a place to begin to talk about it. we&#039;ve been living in an echo chamber for years (well aware!), so having it going through legit testing by normal gamer types has been seriously eye-opening. not in a bad way necessarily, just that its quite apparent that a lot of the cool systems of the game are completely opaque, and so now were trying to find ways of making it so you dont need to read 284 pages of devblog to be able to see some of them. 

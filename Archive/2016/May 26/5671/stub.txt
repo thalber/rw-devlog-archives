@@ -1,0 +1,4 @@
+jamesprimate
+283
+
+ah yeah its a little strange. the &quot;fall out of screen&quot; aspect was part of the previous &quot;one screen = one room&quot; design paradigm from the alpha, which we moved away from significantly, and most regions have none of this issue, opting instead for pits that have bottoms, and generally offering alternate routes, etc. <br><br>however, there are 2 aerial regions that we have that are built around this &quot;fall out of screen&quot; death-drop mechanic, and its impossible to go back now. I think if we firmly establish it that &quot;in this region you fall down&quot; and add some visual indication, might be clear enough.

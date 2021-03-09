@@ -1,0 +1,4 @@
+jamesprimate
+300
+
+A LOT apparently. For the initial release we have the game in English, French, Italian, German, Spanish and Portuguese, but doing a Japanese localization would be an additional *6 months*&nbsp; <img src="https://web.archive.org/web/20210309211948im_/https://forums.tigsource.com/Smileys/derek/screamy.gif" alt="Screamy" border="0"><br><br>From what I understand this is not just the time for translation and the minor adjustments to the way the game sets text for asian fonts, but also because Sony certification in Japan is massively more scrutinizing and arduous process than it is for western release.<br><br>So we&#039;re holding off on it for now :/ I think the idea is to wait until we have all the planned post-release content updates in before doing a proper Asian language localized version.

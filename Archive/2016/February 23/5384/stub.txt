@@ -1,0 +1,4 @@
+JLJac
+269
+
+@Dinomaniak, would love to give you something, but definitely can&#039;t at this point. Many people are involved in and affected by the release date and the release date announcement process, so not really up to me &nbsp;<img src="https://web.archive.org/web/20210308165639im_/https://forums.tigsource.com/Smileys/derek/shrug2.gif" alt="Shrug" border="0"><br><br>@Torchkas, we haven&#039;t noticed any trouble so far! The game only loads the sounds as they are actually needed, so they&#039;re not all in RAM at once. James has made a crazy amount of ambient sounds, but they&#039;re not all in the same room or even in the same region.

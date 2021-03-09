@@ -1,0 +1,4 @@
+jamesprimate
+360
+
+hmmm yeah the grey screen generally means that the world assets or setup options havent been loaded into RAM before startup. with certain computers (generally using win 7, though we havent been able to duplicate it on our side) it seems that the assets for the opening cinematic fills up the computers RAM, and as a result the world assets cant load, so grey screen. this is what joar added the &quot;hold S&quot; workaround for: it skips the opening cinematic and goes right to loading the world assets.<br><br>could you give more background on how this is occurring for you? have you been able to see the cinematic previously and start a new game? i only see loading from savs mentioned <br><br>and for the record, sav files contain most relevant debug information that we need

@@ -1,0 +1,4 @@
+JLJac
+276
+
+Thanks for the explanation of idempotence!<br><br>Yep yep, I get that random.value returns a value 0-1&nbsp; <img src="https://web.archive.org/web/20210308170002im_/https://forums.tigsource.com/Smileys/derek/wink.gif" alt="Wink" border="0"> So <br><br>return Random.value &lt; 0.45f;<br><br>has a 45% chance of returning true, right?<br><br>and <br><br>return Random.value &lt; Mathf.Pow(0.5f, 2);<br><br>is 25%, or equivalent to flipping a coin twice and getting side A <i>both</i> times. What I&#039;m after thought is the chance of flipping a coin twice and getting A <i>any</i> time. That&#039;s what I did the Math.Pow(1f/chance) thing for, but looking at it again either of these<br><br>return Random.value &gt; Mathf.Pow(0.5f, 2);<br><br>or<br><br>return Random.value &lt; 1f - Mathf.Pow(0.5f, 2);<br><br>would seem more reasonable, as they do have the 75% chance we&#039;re going for...?

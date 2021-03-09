@@ -1,0 +1,4 @@
+JLJac
+234
+
+Something like that could be fun! Extra multiplayer modes etc are probably going to end up happening post release though, we&#039;re on a pretty tight schedule here!<br><br><b>Update 477</b><br><br>After making a bunch of creatures that slowly and careful place their long shaky legs in thought out positions, I&#039;ve tired of that and want to do something that just paddles along and couldn&#039;t care less where its legs end up:<br><br><img src="https://web.archive.org/web/20210308163009im_/http://imgwiz.com/images/2015/09/18/YM8BA.gif" alt="" border="0"><br><br>Running locomotion still needs a bunch of work though, as you can see, and it will also need to be able to place its feet more &quot;rain world classic&quot; (ie lots of raytracing, giving potential feet positions scores and comparing them, etc etc) for when it&#039;s still or moving at a slower speed.

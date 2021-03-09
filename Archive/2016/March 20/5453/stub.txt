@@ -1,0 +1,4 @@
+jamesprimate
+272
+
+<div class="quoteheader"><a href="https://web.archive.org/web/20210308165822/https://forums.tigsource.com/index.php?topic=25183.msg1232219#msg1232219">Quote from: tortoiseandcrow on March 20, 2016, 10:06:16 AM</a></div><div class="quote">Sounds amazing! Have you figured out how you will be communicating the karma system in the UI?<br></div><br>Joar has a pretty cool functional UI setup now, but I think it&#039;s going to be stylized / designed up a bit before we show it. Another controversial bit (that historically I have been really against) is that it also incorporates a really slick stylized rain cycle timer. All of it is integrated into the &quot;Slugcat thinking&quot; map screen, so despite all my protesting before, it works really well and is much needed for overall gameplay now that the rain cycle length has randomized elements. 

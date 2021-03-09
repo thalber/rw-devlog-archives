@@ -1,0 +1,4 @@
+jamesprimate
+336
+
+<div class="quoteheader">Quote</div><div class="quote">I&#039;m actually a little sorry to see the change to let you keep your map after death. For me, losing map on death was a big incentive to plan very carefully before exploring, and getting to map some new area despite mortal danger (or, more likely, after dying a few times) was a substantial reward. </div><br>I agree, ofc! I think we&#039;ll make that an option when we do our proper update. But since we&#039;re in 7 languages now, localization for menu changes takes a WHILE, and there was an overwhelming request from the playerbase for this, so let see how it goes. 

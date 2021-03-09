@@ -1,0 +1,4 @@
+JLJac
+233
+
+<b>Update 475</b><br>One of these frustrating days. Working with the yellow lizards I got annoyed with them getting stuck in corners, so I dove into some of the old lizard movement stuff, trying to make it smoother. Problem is that the code is a year and a half by now, and not so great. Soooo a lot of messing around just in order to understand what I was even looking at. After a lot of work I managed to get the thing done I had set my mind to, but I can&#039;t tell for sure if it&#039;s a great improvement. However, I&#039;ve been tidying up that old code a bit and refreshed my memory on it, for whatever that&#039;s worth &nbsp;<img src="https://web.archive.org/web/20210308162838im_/https://forums.tigsource.com/Smileys/derek/shrug2.gif" alt="Shrug" border="0">

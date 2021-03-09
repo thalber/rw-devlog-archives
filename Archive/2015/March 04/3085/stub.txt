@@ -1,0 +1,4 @@
+jamesprimate
+154
+
+ah yeah there were def some problems with camera switching in that first build. its been fixed in a lot lot lot of instances, but still some occasional weirdness. let us know if you still see it in the next build! the bats should be much less undead too&nbsp; <img src="https://web.archive.org/web/20210308153033im_/https://forums.tigsource.com/Smileys/derek/evil.gif" alt="Evil" border="0">

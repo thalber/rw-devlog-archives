@@ -1,0 +1,4 @@
+JLJac
+149
+
+Another pretty fun thing I&#039;ve been doing sometimes when developing is &quot;documentary mode&quot;, where I just tie the camera to some creature other than the player, and follow it during its cycle. You can see it hunt, catch prey, bring the pray back, etc. Maybe that could be made into a screensaver or something - if you&#039;re okay with a screensaver that runs your processor on turbo and has the fan sound like a jet engine is sitting on your desk.

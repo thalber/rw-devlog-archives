@@ -1,0 +1,4 @@
+JLJac
+201
+
+<b>Update 442</b><br><br>Further work on the fish creature. I&#039;ve also stared on some water splashes, which I know are not really all the way there. It should probably have some sort of highlights on it making it appear less dark - but that is difficult without making the individual sprites more obvious. It&#039;s supposed to look like a unified mass of water rather than sprites, and if I add some kind of specular effect in the shader the shader would still only know about the specific sprite it handles, so it would be difficult to keep it unified.<br><br><img src="https://web.archive.org/web/20210308160922im_/https://giant.gfycat.com/OrneryAngelicAtlanticsharpnosepuffer.gif" alt="" border="0"><br><br>Suggestions?

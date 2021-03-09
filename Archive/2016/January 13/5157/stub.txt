@@ -1,0 +1,4 @@
+JLJac
+257
+
+<b>Update 512</b><br><br>Another day of unglamorous hard work. The scavengers are by far the most advanced creature when it comes to AI - every parameter has to be accounted for. They&#039;re in packs, they use and manage items, they migrate through the abstract world in a complicated way... Getting there though. Today I tiered their aggressive behavior and got a good chunk of their player interactions done. I already have a hostile behavior and a friendly one. What&#039;s missing is the in-between, where they&#039;re acting cautious but not necessarily antagonistic towards you. Soon I think I will be at the point where just some additional touch ups are needed, and then we&#039;re good to move on. 

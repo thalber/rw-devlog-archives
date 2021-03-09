@@ -1,0 +1,4 @@
+JLJac
+192
+
+Okay, got palette fades working and am now pursuing garbage worms functioning as supposed to. Sorry about the state of the devlog, we&#039;re pushing for a new build which as usual means less &quot;adding fun stuff&quot;-mode but instead &quot;getting the previously added stuff to actually technically work&quot;-mode. 

@@ -1,0 +1,4 @@
+JLJac
+237
+
+Actually not for this one, but some other creatures have stuff like that - such as rain deer antler size depending in their internal ranking. This is sort of what we&#039;re going for though ... by not giving away much information in the game about what&#039;s going on except from what you see on the screen, we can get the player to project their own ideas onto the world, and you&#039;ll end up with a nice blurry line between what the game <i>can </i>do and what you <i>think </i>the game can do &nbsp;<img src="https://web.archive.org/web/20210309163406im_/https://forums.tigsource.com/Smileys/derek/wink.gif" alt="Wink" border="0"><br><br><b>Update 482</b><br><br>UI for placing ambient sounds. <br><br><img src="https://web.archive.org/web/20210309163406im_/https://fat.gfycat.com/ConstantImprobableCivet.gif" alt="" width="700" height="419" border="0"><br><br>Just UI so far ~ no, you know... sounds.

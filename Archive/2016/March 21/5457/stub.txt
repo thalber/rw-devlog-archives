@@ -1,0 +1,4 @@
+JLJac
+272
+
+@zorg, when you&#039;re in a shelter with enough food, there&#039;s two options - &quot;continue&quot; which will put you back in the game and &quot;exit&quot; which will take you to the menu. If you chose &quot;continue&quot; you&#039;re considered to have bet a karma point on your survival, and have to complete the cycle else you&#039;ll lose one point. If you pick &quot;exit&quot; however, you&#039;re opting out of the bet and get to keep your karma level where it&#039;s at when you start the game next time. <br><br>It is a little bit harsh - once you have committed to playing there are only two outcomes - win or lose (the latter including exiting or restarting) but cycles are generally pretty short (MAX 7 minutes or so, generally shorter) so in comparison to the ~40 min commitment of firing up a game of Binding of Isaac or similar roguelites it&#039;s not too bad!

@@ -1,0 +1,4 @@
+jamesprimate
+179
+
+ah yeah those are just the paths that connect to the other regions. not connected yet because we havent implemented the region swapping or gates. so many things to do&nbsp; <img src="https://web.archive.org/web/20210309162318im_/https://forums.tigsource.com/Smileys/derek/cry.gif" alt="Cry" border="0">

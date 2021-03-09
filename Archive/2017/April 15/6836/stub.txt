@@ -1,0 +1,4 @@
+jamesprimate
+341
+
+Version 1.015 patch notes from Joar:<br><br>Hi! Just wanted to let you know what&#039;s up in this patch - it&#039;s a mini patch really, with just two little tweaks:<br><br>Undiscovered symbols can&#039;t be seen on the regions screen map any more<br>Vulture mask is once again back to not being throwable, instead you release it with the down + pick up button command like in v1.0<br><br>Also there&#039;s a stability improvement that could help with some of the freeze issues on loading save files. All in all, very minor tweaks and no cause for alarm! Working mainly on stability right now, and have some more fixes of that sort coming up.<br><br>-Joar

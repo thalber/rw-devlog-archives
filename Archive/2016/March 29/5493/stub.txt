@@ -1,0 +1,4 @@
+JLJac
+274
+
+I solved it! Solution: Make the problem happen backwards instead (forest of trees close to the camera, nothing in the back) and then do an average between the forwards problematic curve and the backwards problematic curve. Programming isn&#039;t always pretty&nbsp; <img src="https://web.archive.org/web/20210308165909im_/https://forums.tigsource.com/Smileys/derek/whome.gif" alt="Who, Me?" border="0">

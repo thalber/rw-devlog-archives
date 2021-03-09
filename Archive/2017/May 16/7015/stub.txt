@@ -1,0 +1,4 @@
+JLJac
+350
+
+Adult AI slugcats I don&#039;t wanna do, because it will look uncanny how different they move/behave from you when they&#039;re supposed to be the same creature. Slugcat pups we definitely want to do, and those will ofc be NPC ~ them being juvenile would explain them not being able to do everything you can.<br><br><b>Update 538</b><br><br>Speaking of kids, here&#039;s a noodlefly with its offspring:<br><br><img src="https://web.archive.org/web/20210308174659im_/https://giant.gfycat.com/PleasedTautHalibut.gif" alt="" border="0"><br><br>The AI is pretty much done (it&#039;s pretty protective of the little ones) and I&#039;m moving it over to the main build to set up the interactions with other creatures.

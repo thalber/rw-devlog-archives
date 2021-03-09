@@ -1,0 +1,4 @@
+JLJac
+240
+
+<b>Update 489</b><br><br>A secret creature is implemented! This one is specific for the last region, and I&#039;d like it to not reach you guys before you&#039;re actually playing (and playing and playing and playing, until you get to that area), so you have something to be excited for! The only thing I will say is that it is certainly among the more visually complex creatures of the game so far. Took me about 4 days all in all, and feels like a cool investment.

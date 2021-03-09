@@ -1,0 +1,4 @@
+jamesprimate
+340
+
+<div class="quoteheader"><a href="https://web.archive.org/web/20210308174018/https://forums.tigsource.com/index.php?PHPSESSID=332pgb3mkvn03ldc5q07od90j2&amp;topic=25183.msg1328405#msg1328405">Quote from: Doliprane on April 09, 2017, 10:37:35 PM</a></div><div class="quote">Hello, could we have news about the PS4 patch ?<br></div><br>PS4 patch should be going up this week! It takes a bit longer than Steam, as we don&#039;t have direct access to the codebase it has to go through porting and then Sony&#039;s cert process. Also we&#039;ll have a GOG version this week as well.

@@ -1,0 +1,4 @@
+jamesprimate
+325
+
+<div class="quoteheader"><a href="https://web.archive.org/web/20210308172935/https://forums.tigsource.com/index.php?PHPSESSID=nm061k66t8dl0m5e1oikl4u4m6&amp;topic=25183.msg1326196#msg1326196">Quote from: JWK5 on March 31, 2017, 12:19:25 PM</a></div><div class="quote"><b><span style="color: red;">BUG REPORT:</span></b> On the PS4 version, I got snagged by one of those plant creatures that mimic a pole during the startup of a rain storm and it pulled me downward and then as the rain hit its peak it just sort of rained forever and the game was stuck like that (i.e. I was unable to do anything, the screen was dark and raining, but there was no game over).<br></div><br>yes! Thank you for reporting. I have another instance of this on record and have the PS4 code people on it, so a fix will be incoming!

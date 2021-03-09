@@ -1,0 +1,4 @@
+JLJac
+175
+
+Yay I think I solved it! You need to have a co-routine and yield it until it&#039;s done loading... I have to admit I didn&#039;t totally understand what was going on, but I found an example on a forum and messed with that until it worked, and then messed some more until it was a piece of my machinery as I wanted it to be. The main problem seemed to be that the solution included a lot of interaction with Unity, creating a game object etc, which is not my strong side. But, we&#039;re through I think! Now James can actually start putting in some sweet samples for this thing :D

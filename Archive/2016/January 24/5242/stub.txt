@@ -1,0 +1,4 @@
+JLJac
+262
+
+Exactly the same result up when 0&lt;x&lt;1 yep! The corners are however in a range where x is up to the square root of two, and then you get these weird effects with a simple x^5 function:<br><br><img src="https://web.archive.org/web/20210308165327im_/http://imgwiz.com/images/2016/01/24/mPrh.png" alt="" border="0"><br><br>It&#039;s a super-distortion where the image sort of doubles back and becomes mirrored around some edge, presumably the perimeter where the distance is equal to one. 

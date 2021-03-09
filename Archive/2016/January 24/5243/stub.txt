@@ -1,0 +1,4 @@
+JLJac
+262
+
+Actually using the formula I&#039;ve copied straight from my code the reason becomes pretty evident - the distortion is allowed to taper after a bit instead of shooting exponentially for the stars. <br><br><img src="https://web.archive.org/web/20210308165327im_/http://imgwiz.com/images/2016/01/24/jg3CP.png" alt="" border="0"><br><br>Also one thing that I tend to forget is that the dst value is not 1 at the edges, but 0.5 ~<br><br>One curve that looks almost identical though is y = x^5 - x^7... That one is so simple, has got to be possible to do backwards! Gosh I wish I had some sort of math education :S 

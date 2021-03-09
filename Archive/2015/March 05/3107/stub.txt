@@ -1,0 +1,4 @@
+jamesprimate
+155
+
+Thanks thanks! Yeah some of those early Suburban rooms were among the first levels I did, and some are even from the lingo build! So definitely needed a touchup. That whole region will probably get some restructuring and reworking later down the line when it&#039;s placed in the context of the connected world, but this is definitely a step up from where it was. <br><br>As for the off centered bug, YEP that just happened the first time as the windo and shaders need a boot to align. Glad it works tho! White screen shader issue seems to be resolved too, which is a relief since Joar can&#039;t replicate it it was basically a stab in the dark XD<br><br>

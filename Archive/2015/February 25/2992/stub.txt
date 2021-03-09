@@ -1,0 +1,4 @@
+jamesprimate
+149
+
+<div class="quoteheader"><a href="https://web.archive.org/web/20210308152558/https://forums.tigsource.com/index.php?PHPSESSID=pee5id0fte02dokp350hjjdhg5&amp;topic=25183.msg1114852#msg1114852">Quote from: Christian on February 25, 2015, 09:35:13 AM</a></div><div class="quote"><br>This game is begging for a sandbox vivarium mode, where you can just spawn different creatures and watch them interact <br></div><br>sandbox mode was a big part of the lingo, where it overlapped with multiplayer: you would choose a game mode, room, number of players and what lizards you would play against, etc. so we definitely want to make that a big part of the game! the concept were running with now is tying all that it in to the single player game progression, so as you go through the game you can unlock additional rooms / creatures / etc to add to the sandbox/multiplayer mode. 

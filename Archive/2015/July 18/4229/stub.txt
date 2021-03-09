@@ -1,0 +1,4 @@
+jamesprimate
+211
+
+Hey Saijin! Good question, thats something weve talked about a lot. <br><br>The general audio experience is mostly ambient / atmospheric / environmental sounds to establish a sense of place, with &quot;music&quot; being used to establish specific moods we want to convey to the player, such as when discovering a new region, highlighting the emotion of a narrative point, or surrounding some object / creature / whatever that has some significance attached to it. <br><br>In this context the audio should function almost like a natural HUD, giving you hints as to what creatures are nearby, how close the rain is, etc., so we dont want to clutter it up too much with music-for-music&#039;s-sake.<br>

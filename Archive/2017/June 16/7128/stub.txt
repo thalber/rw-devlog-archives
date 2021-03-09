@@ -1,0 +1,4 @@
+jamesprimate
+356
+
+good question! actually thats one of the reasons that its going to take a bit of time is that we need to make sure that all this new stuff is thoroughly tested and rock solid compatible with old sav files. so short answer: yes

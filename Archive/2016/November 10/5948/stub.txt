@@ -1,0 +1,4 @@
+jamesprimate
+297
+
+Yeah, it was a big part of the early alpha aesthetic of the game for Joar. Since its super time-consuming to do and purely cosmetic we had kind of abandoned hope of making it a part of the slick new Rain World, so didnt talk about it much other than attempts to squeeze some tests in occasionally when there was a second of down-time. But now we have a few weeks that we cant touch the code while the PS4 porting then testing finishes up and the games off being localized, so Joar has been able to dive into tagging up all my lovely austere surfaces&nbsp; <img src="https://web.archive.org/web/20210308171052im_/https://forums.tigsource.com/Smileys/derek/cheesy.gif" alt="Cheesy" border="0"><br><br>It&#039;s looking awesome though and really adds back an important flavor to the world. Im glad its worked out this way!

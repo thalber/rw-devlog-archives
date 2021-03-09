@@ -1,0 +1,4 @@
+JLJac
+199
+
+<b>Update 439</b><br><br>I&#039;m working on a new creature, a fish! Not a backer creature this time, but as none of the backer creatures were aquatic we felt we really needed to go outside the list with this one. It&#039;s a quick swimmer and it hunts by bumping into its prey knocking the air out of its lungs and keeping it below the surface until it drowns. You will be able to grab it and use it similarly to the cicada and lantern mouse, I&#039;ll show you some gifs once I have a little bit of skin going for it.<br><br>Aside from that I started on a fog shader for the new region:<br><br><img src="https://web.archive.org/web/20210308160725im_/https://fat.gfycat.com/IncomparableEqualArkshell.gif" alt="" border="0"><br><br>It&#039;s quite tricky because I want to create the impression of depth, while at the same time keeping the color count (or the perceived color count) somewhat under control. Still needs a bit of tuning for sure! 

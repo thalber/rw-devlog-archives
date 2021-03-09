@@ -1,0 +1,4 @@
+JLJac
+236
+
+<b>Update 481</b><br><br>Some cosmetic individualization and a bit more work on the behavior. Just because you&#039;re a pack doesn&#039;t mean you&#039;re friends...<br><br><img src="https://web.archive.org/web/20210308163253im_/https://giant.gfycat.com/FrequentLightheartedGalapagosdove.gif" alt="" border="0"><br><br>Also I implemented a blinding effect from the flare fruit. It should theoretically work on all creatures, though not all of them have custom animation to convey it as clearly as this one - yet, at least.<br><br><img src="https://web.archive.org/web/20210308163253im_/https://giant.gfycat.com/ConfusedVariableBeagle.gif" alt="" border="0">

@@ -1,0 +1,4 @@
+JLJac
+261
+
+<b>Update 519</b><br><br>Did some small AI touches to lantern mice and in the general AI modules affecting the behavior of all critters. Also some general maintenance work with the save states etc. At the moment though, I&#039;m working on A SECRET CREATURE! There are quite a few of them in there now - not anywhere near as many as the amount of critters devoted devlog followers <i>have</i> seen, and some of them are just variations/subspecies of already shown creatures, but still a fair few. Wouldn&#039;t want to rob you of the experience of discovering a new creature every now and then!
